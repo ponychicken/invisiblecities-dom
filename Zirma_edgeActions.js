@@ -301,17 +301,17 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 10000, function(sym, e) {
-         // insert code here
+         
       });
       //Edge binding end
 
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 1149, function(sym, e) {
-         // insert code here
+         
       });
       //Edge binding end
 
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 15, function(sym, e) {
-         // insert code here
+         
       });
       //Edge binding end
 
@@ -340,7 +340,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 90000, function(sym, e) {
-         // insert code here
+         
       });
       //Edge binding end
 
@@ -353,14 +353,14 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 1500, function(sym, e) {
-         // insert code here
+         
          sym.getSymbol("BGluna2").getSymbol("BGlunaticCopy").play();
 
       });
       //Edge binding end
 
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 4000, function(sym, e) {
-         // insert code here
+         
          sym.getSymbol("BGluna2").getSymbol("BGlunaticCopy2").play();
 
       });
@@ -375,10 +375,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 500, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -392,10 +392,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 1000, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -451,10 +451,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 2000, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -468,10 +468,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 2000, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -485,7 +485,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 20000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -500,10 +500,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 2250, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         sym.play(0);
 
       });
       //Edge binding end
@@ -525,10 +522,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 750, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -542,10 +539,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 500, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -575,10 +572,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 1473, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -600,7 +597,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 40000, function(sym, e) {
-         // insert code here
          sym.play();
 
       });
@@ -615,7 +611,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 5000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -630,10 +626,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 4000, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -647,7 +643,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 17000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -672,10 +668,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 4500, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -689,7 +685,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 38000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -704,10 +700,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 4500, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -721,10 +717,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 3000, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -738,10 +734,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 2096, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -771,10 +767,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 2512, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -788,10 +784,10 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 390000, function(sym, e) {
-         // insert code here
-         // Play the timeline at a label or specific time. For example:
-         // sym.play(500); or sym.play("myLabel");
-         sym.play(000);
+         
+         
+         
+         sym.play(0);
 
       });
       //Edge binding end
@@ -805,7 +801,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 11000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -820,7 +816,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 35000, function(sym, e) {
-         // insert code here
+         
          sym.play();
          x
 
@@ -836,7 +832,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 53018, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -851,7 +847,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 90134, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -874,7 +870,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 36000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -889,7 +885,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 42000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -919,7 +915,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 100000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -934,7 +930,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 40000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -949,7 +945,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 40000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -964,7 +960,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 24000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -1011,7 +1007,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 21000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -1042,7 +1038,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 19000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -1057,7 +1053,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 1696, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
@@ -1072,7 +1068,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 2000, function(sym, e) {
-         // insert code here
+         
          sym.play();
 
       });
