@@ -7,7 +7,6 @@
   "license": "Unknown",
   "private": true,
   "dependencies": {
-    "greensock": "~1.15.0",
     "shake.js": "~1.1.0"
   }
 }
