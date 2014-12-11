@@ -1,0 +1,13 @@
+{
+  "name": "Zirma",
+  "version": "0.0.1",
+  "authors": [
+    "Dom Okah"
+  ],
+  "license": "Unknown",
+  "private": true,
+  "dependencies": {
+    "greensock": "~1.15.0",
+    "shake.js": "~1.1.0"
+  }
+}
