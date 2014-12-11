@@ -88,305 +88,189 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          //function to call when shake occurs
          function shakeEventDidOccur() {
          	var parallax = sym.getSymbol("Paralex");
-         	
+         	var foreground = parallax.getSymbol("wholeforeground");
+         	var midground = parallax.getSymbol("wholemidground");
+         	var background = parallax.getSymbol("Wholebackground");
+         
          	// select a dom element
          	count++;
-         	//var ele = sym.getSymbol('girlhead2').getSymbolElement();
+         
          	if (count == 1) {
          
-         
-         
-         		parallax.getSymbol("wholeforeground").getSymbol("lunamove").play();
-         
+         		foreground.getSymbol("lunamove").play();
          
          		//____first scene___ puma
-         		parallax.getSymbol("wholeforeground").$("FGpumagirls").show();
-         
+         		foreground.$("FGpumagirls").show();
          
          		//____scene 2 planes____
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("MGplane12").show();
+         		midground.getSymbol("objectsmidground").$("MGplane12").show();
+         		midground.getSymbol("objectsmidground").getSymbol("MGplane12").play();
          
-         
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").getSymbol("MGplane12").play();
-         
-         
-         
-         		//____scene 3 - linatics___
-         
+         		//____scene 3 - lunatics___
          		//show sitting luna
-         		parallax.getSymbol("Wholebackground").$("sittingluna").show();
-         		parallax.getSymbol("Wholebackground").$("BGlunatic2").show();
-         		parallax.getSymbol("Wholebackground").getSymbol("BGlunatic2").play();
+         		background.$("sittingluna").show();
+         		background.$("BGlunatic2").show();
+         		background.getSymbol("BGlunatic2").play();
          
          		//______scene 4 old man_____
-         
          		// Show an element
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("oldman5").show();
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").getSymbol("oldman5").play();
+         		midground.getSymbol("objectsmidground").$("oldman5").show();
+         		midground.getSymbol("objectsmidground").getSymbol("oldman5").play();
          
          
          		//____scene 5 - sailor_____
-         
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("sailor2").show();
+         		midground.getSymbol("objectsmidground").$("sailor2").show();
          
          
          		//___scene 6 (bench)
-         
          		// Show an element
-         		parallax.getSymbol("wholemidground").$("lunabehindtree1").show();
-         
-         
+         		midground.$("lunabehindtree1").show();
          
          
          	} else if (count == 2) {
          
          		//____scene 6 - bench
-         
-         		parallax.getSymbol("wholemidground").$("lunabehindtree1").hide();
-         		parallax.getSymbol("wholemidground").$("bencholdman").show();
+         		midground.$("lunabehindtree1").hide();
+         		midground.$("bencholdman").show();
          
          
          
          		//_____first scene____Puma:
-         
          		//show BGpuma1 & 2
-         		parallax.getSymbol("Wholebackground").$("BGpuma1").show();
-         
-         		// Show an element
-         		parallax.getSymbol("Wholebackground").getSymbol("part1").$("BGpuma1Copy").show();
+         		background.$("BGpuma1").show();
+         		background.getSymbol("part1").$("BGpuma1Copy").show();
          
          		//____second scene____Planes:
-         
-         
          		//show planes 3&4
-         		parallax.getSymbol("Wholebackground").$("plane3").show();
-         		parallax.getSymbol("Wholebackground").$("plane42").show();
+         		background.$("plane3").show();
+         		background.$("plane42").show();
          
          		//scene 3 - lunatics ____
-         		// Show an element
-         		parallax.getSymbol("Wholebackground").$("sittingluna2").show();
-         		parallax.getSymbol("Wholebackground").getSymbol("sittingluna2").getSymbol("sprite").play();
-         		parallax.getSymbol("Wholebackground").getSymbol("BGluna2").$("BGlunaticCopy").show();
-         		parallax.getSymbol("Wholebackground").$("sittingluna").show();
+         		background.$("sittingluna2").show();
+         		background.getSymbol("sittingluna2").getSymbol("sprite").play();
+         		background.getSymbol("BGluna2").$("BGlunaticCopy").show();
+         		background.$("sittingluna").show();
          
          
          		//____scene 4 old man____
-         
-         
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("oldman3").show();
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").getSymbol("oldman3").play();
+         		midground.getSymbol("objectsmidground").$("oldman3").show();
+         		midground.getSymbol("objectsmidground").getSymbol("oldman3").play();
          
          		//scene 5 - Sailor_____
-         
-         
-         		// Show an element
-         		parallax.getSymbol("wholemidground").$("sailor3").show();
+         		midground.$("sailor3").show();
          
          		//Scene 6 - bench
-         
-         
-         		// Hide an element
-         
-         
-         
-         
          
          	} else if (count == 3) {
          
          		//____scene 6 - bench
-         
-         
-         		parallax.getSymbol("wholemidground").$("bencholdman").hide();
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("sailorsit3").show();
+         		midground.$("bencholdman").hide();
+         		midground.getSymbol("objectsmidground").$("sailorsit3").show();
          
          
          
          
          		//___first scene: Puma walk__
-         
-         
-         
-         		// Show an element
-         		parallax.getSymbol("wholemidground").$("Mgpumagirl2").show();
-         
-         
+         		midground.$("Mgpumagirl2").show();
          
          		//___second scene: planes__
-         
-         		parallax.getSymbol("Wholebackground").$("plane2").show();
+         		background.$("plane2").show();
          
          		//___scene 4 - old man___
-         
-         
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("crowdmen2").show();
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").getSymbol("crowdmen2").play();
+         		midground.getSymbol("objectsmidground").$("crowdmen2").show();
+         		midground.getSymbol("objectsmidground").getSymbol("crowdmen2").play();
          
          
          		//scene 3 -- Lunatics___
-         
-         
-         
-         		// Show an element
-         		parallax.getSymbol("Wholebackground").$("BGlunatic3").show();
-         
-         		// Show an element
-         		parallax.getSymbol("Wholebackground").$("BGlunatic4").show();
-         
+         		background.$("BGlunatic3").show();
+         		background.$("BGlunatic4").show();
          
          		//___scene 6 - BENCH
-         		parallax.getSymbol("wholemidground").$("bencholdman").hide();
+         		midground.$("bencholdman").hide();
          
          	} else if (count == 4) {
          
          		//____scene 6 ____bench
-         
-         
-         		// Show an element
-         		parallax.getSymbol("wholemidground").$("bencholdman").show();
-         		parallax.getSymbol("wholemidground").$("lunabehindtree1").show();
+         		midground.$("bencholdman").show();
+         		midground.$("lunabehindtree1").show();
          
          
          		//_____stage 1 : PUMA______
-         		//hide all except midpuma1
-         
-         		// Hide an element
-         
-         		// Hide an element
-         		parallax.getSymbol("Wholebackground").$("BGpuma1").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("Wholebackground").getSymbol("part1").$("BGpuma1Copy").hide();
+         		// hide all except midpuma1
+         		background.$("BGpuma1").hide();
+         		background.getSymbol("part1").$("BGpuma1Copy").hide();
          
          
          
          		//___scene 3 : lunatics___
-         
-         		//show sitting luna3
-         
-         
-         		// Show an element
-         		parallax.getSymbol("Wholebackground").$("sittingluna3").show();
+         		// show sitting luna3
+         		background.$("sittingluna3").show();
          
          
          
          		//___scene 4 - old man
          		//___planes___
-         
-         
-         		// Show an element
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("MGplane3").show();
-         
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").getSymbol("MGplane3").play();
-         
-         
-         
-         
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("crowdmen2").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("oldman5").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("oldman3").hide();
-         
-         		//___scene 6 bench
-         
-         
-         
-         
+         		midground.getSymbol("objectsmidground").$("MGplane3").show();
+         		midground.getSymbol("objectsmidground").getSymbol("MGplane3").play();
+         		midground.getSymbol("objectsmidground").$("crowdmen2").hide();
+         		midground.getSymbol("objectsmidground").$("oldman5").hide();
+         		midground.getSymbol("objectsmidground").$("oldman3").hide();
          
          	} else if (count == 5) {
          
-         
-         
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").$("Mgpumagirl2").hide();
+         		midground.$("Mgpumagirl2").hide();
          
          		//___planes___
-         
-         
-         		// Hide an element
-         		parallax.getSymbol("Wholebackground").$("plane3").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("Wholebackground").$("plane42").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("MGplane12").hide();
+         		background.$("plane3").hide();
+         		background.$("plane42").hide();
+         		midground.getSymbol("objectsmidground").$("MGplane12").hide();
          
          
          
+         		midground.$("lunabehindtree2").show();
          
-         
-         		// Show an element
-         		parallax.getSymbol("wholemidground").$("lunabehindtree2").show();
-         
-         		parallax.getSymbol("wholemidground").$("sailor4").show();
-         		parallax.getSymbol("wholemidground").$("endoldman2").show();
+         		midground.$("sailor4").show();
+         		midground.$("endoldman2").show();
          
          		//Lunatics
          
-         		parallax.getSymbol("Wholebackground").getSymbol("BGluna2").$("BGlunaticCopy2").show();
+         		background.getSymbol("BGluna2").$("BGlunaticCopy2").show();
          
          
          	} else if (count == 6) {
          		//Scene 6 ____bench
          
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").$("sailor4").hide();
+         		midground.$("sailor4").hide();
          
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").$("bencholdman").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").$("endoldman2").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").$("lunabehindtree1").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").$("lunabehindtree2").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("sailorsit3").hide();
+         		midground.$("bencholdman").hide();
+         		midground.$("endoldman2").hide();
+         		midground.$("lunabehindtree1").hide();
+         		midground.$("lunabehindtree2").hide();
+         		midground.getSymbol("objectsmidground").$("sailorsit3").hide();
          
          		//____PUMA_____
          
-         
-         		// Hide an element
-         		parallax.getSymbol("wholeforeground").$("FGpumagirls").hide();
+         		foreground.$("FGpumagirls").hide();
          
          		//Planes_____
-         
-         
-         		// Hide an element
-         		parallax.getSymbol("wholemidground").getSymbol("objectsmidground").$("MGplane3").hide();
+         		midground.getSymbol("objectsmidground").$("MGplane3").hide();
          
          		//lunatics
          
          
-         		// Hide an element
-         		parallax.getSymbol("Wholebackground").$("sittingluna").hide();
+         		background.$("sittingluna").hide();
          
          		// Set a toggle to hide or show an element
-         		parallax.getSymbol("Wholebackground").$("BGlunatic2").toggle();
+         		background.$("BGlunatic2").toggle();
          
-         		// Hide an element
-         		parallax.getSymbol("Wholebackground").$("sittingluna2").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("Wholebackground").$("BGlunatic3").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("Wholebackground").$("BGlunatic4").hide();
-         
-         		// Hide an element
-         		parallax.getSymbol("Wholebackground").$("sittingluna3").hide();
+         		background.$("sittingluna2").hide();
+         		background.$("BGlunatic3").hide();
+         		background.$("BGlunatic4").hide();
+         		background.$("sittingluna3").hide();
          
          	} else if (count == 7) {
          		// Hide an element
-         		parallax.getSymbol("Wholebackground").$("plane2").hide();
+         		background.$("plane2").hide();
          
          		count = 0;
          	}
