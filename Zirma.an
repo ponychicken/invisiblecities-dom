@@ -137,7 +137,7 @@
 		"vGuides":"670px,1802px,2698px,357px,468px,881px"},
 	"expanded:images/PLANE.png":"nil",
 	"usedBOM":"false",
-	"expanded:images/8-1.png":"nil",
+	"expanded:images/8.png":"nil",
 	"symbol_spriteL":{},
 	"symbol_treeluna":{
 		"element_${bigluna2}":{
@@ -1386,7 +1386,7 @@
 		"hGuides":"62px",
 		"vGuides":"183px,267px"},
 	"expanded:symbols/background/cars/purple.png":"nil",
-	"expanded:symbols/puma%26girl/8-1.png":"nil",
+	"expanded:symbols/puma%26girl/8.png":"nil",
 	"expanded:images/7.png":"nil",
 	"smoke-Default Timeline_playhead_ms":"0",
 	"expanded:images/PARALEX_04-1.png":"nil",
