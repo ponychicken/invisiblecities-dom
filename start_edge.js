@@ -44,7 +44,7 @@
                             id: 'click-to-enter',
                             type: 'image',
                             rect: ['833', '102', '329px', '81px', 'auto', 'auto'],
-                            fill: ["rgba(0,0,0,0)",'cityoverview/images/text%5D/click-to-enter.png','0px','0px']
+                            fill: ["rgba(0,0,0,0)",'cityoverview/images/text/click-to-enter.png','0px','0px']
                         },
                         {
                             id: 'fallingleaf',
@@ -1462,22 +1462,22 @@
                 content: {
                     dom: [
                         {
+                            rect: [-77, -78, 229, 231, 'auto', 'auto'],
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.3244', '0.3244', 1], ['50%', '50%']],
-                            type: 'rect',
                             overflow: 'hidden',
                             id: 'pumagirl',
                             symbolName: 'pumagirl',
                             display: 'block',
-                            rect: [-77, -78, 229, 231, 'auto', 'auto']
+                            type: 'rect'
                         },
                         {
+                            rect: [198, -78, 229, 231, 'auto', 'auto'],
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.32812', '0.3244', 1], ['50%', '50%']],
-                            type: 'rect',
                             overflow: 'hidden',
                             id: 'pumagirl2',
                             symbolName: 'pumagirl',
                             display: 'none',
-                            rect: [198, -78, 229, 231, 'auto', 'auto']
+                            type: 'rect'
                         }
                     ],
                     style: {
@@ -1622,10 +1622,10 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, 85, 66, 'auto', 'auto'],
+                            type: 'rect',
                             id: 'leaf2',
                             symbolName: 'leaf',
-                            type: 'rect',
+                            rect: [0, 0, 85, 66, 'auto', 'auto'],
                             opacity: '1'
                         }
                     ],
@@ -2211,97 +2211,97 @@
                                 type: 'image',
                                 id: 'travelers2_02',
                                 rect: [2521, 0, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/travelers2_02.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_02.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'travelers2_01',
                                 rect: [1725, 0, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/travelers2_01.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_01.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'travelers2_02Copy',
                                 rect: [7311, 0, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/travelers2_02.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_02.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'travelers2_01Copy',
                                 rect: [6515, 0, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/travelers2_01.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_01.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'travelers1_02',
                                 rect: [796, 0, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/travelers1_02.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_02.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'travelers1_01',
                                 rect: [0, 0, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/travelers1_01.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_01.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'travelers1_02Copy',
                                 rect: [4119, 0, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/travelers1_02.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_02.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'travelers1_01Copy',
                                 rect: [3323, 0, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/travelers1_01.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_01.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'travelers1_02Copy2',
                                 rect: [5714, 0, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/travelers1_02.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_02.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'travelers1_01Copy2',
                                 rect: [4918, 0, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/travelers1_01.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_01.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'memories2_02',
                                 rect: [5714, 583, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/memories2_02.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_02.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'memories2_01',
                                 rect: [4918, 583, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/memories2_01.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_01.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'memories2_02Copy',
                                 rect: [7311, 583, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/memories2_02.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_02.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'memories2_01Copy',
                                 rect: [6515, 583, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/memories2_01.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_01.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'memories1_02',
                                 rect: [4119, 583, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/memories1_02.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories1_02.png', '0px', '0px']
                             },
                             {
                                 type: 'image',
                                 id: 'memories1_01',
                                 rect: [3317, 583, '796px', '628px', 'auto', 'auto'],
-                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text%5D/images/memories1_01.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories1_01.png', '0px', '0px']
                             }]
                         }
                     ],
@@ -2810,18 +2810,18 @@
                     dom: [
                         {
                             transform: [[0, 0, 0], ['-4', 0, 0], [0, 0], [1, 1, 1], ['50%', '50%']],
-                            rect: [7, 46, 526, 229, 'auto', 'auto'],
-                            display: 'block',
-                            id: 'plane',
                             type: 'image',
+                            id: 'plane',
+                            display: 'block',
+                            rect: [7, 46, 526, 229, 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         },
                         {
                             transform: [[0, 0, 0], ['10', 0, 0], [0, 0], ['-1.04259', 1, 1], ['50%', '50%']],
-                            rect: [1493, 46, 526, 229, 'auto', 'auto'],
-                            display: 'none',
-                            id: 'plane2',
                             type: 'image',
+                            id: 'plane2',
+                            display: 'none',
+                            rect: [1493, 46, 526, 229, 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         }
                     ],
@@ -2939,18 +2939,18 @@
                     dom: [
                         {
                             transform: [[0, 0, 0], ['10', 0, 0], [0, 0], [1, 1, 1], ['50%', '50%']],
-                            type: 'image',
-                            id: 'plane3',
-                            display: 'block',
                             rect: [22, 61, '732px', '318px', 'auto', 'auto'],
+                            display: 'block',
+                            id: 'plane3',
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         },
                         {
                             transform: [[0, 0, 0], ['24', 0, 0], [0, 0], ['-1.02234', 1, 1], ['50%', '50%']],
-                            rect: [1167, 1000, '732px', '318px', 'auto', 'auto'],
-                            display: 'none',
-                            id: 'plane3Copy',
                             type: 'image',
+                            id: 'plane3Copy',
+                            display: 'none',
+                            rect: [1167, 1000, '732px', '318px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         }
                     ],
@@ -3230,40 +3230,40 @@
                 content: {
                     dom: [
                         {
-                            rect: [-28, -102, 128, 300, 'auto', 'auto'],
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.29305', '0.28429', 1], ['50%', '50%']],
+                            rect: [-28, -102, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman3Copy',
-                            opacity: '1',
+                            symbolName: 'oldman',
                             type: 'rect',
-                            symbolName: 'oldman'
+                            opacity: '1'
                         },
                         {
-                            rect: [78, -108, 128, 300, 'auto', 'auto'],
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
+                            rect: [78, -108, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman4Copy',
-                            opacity: '1',
+                            symbolName: 'oldman',
                             type: 'rect',
-                            symbolName: 'oldman'
+                            opacity: '1'
                         },
                         {
-                            rect: [-1, -97, 128, 300, 'auto', 'auto'],
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
+                            rect: [-1, -97, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman4Copy2',
-                            opacity: '1',
+                            symbolName: 'oldman',
                             type: 'rect',
-                            symbolName: 'oldman'
+                            opacity: '1'
                         },
                         {
-                            rect: [-46, -81, 128, 300, 'auto', 'auto'],
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.28475', '0.28429', 1], ['50%', '50%']],
+                            rect: [-46, -81, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman4Copy3',
-                            opacity: '1',
+                            symbolName: 'oldman',
                             type: 'rect',
-                            symbolName: 'oldman'
+                            opacity: '1'
                         }
                     ],
                     style: {
@@ -3483,5 +3483,5 @@
 
     AdobeEdge.registerCompositionDefn(compId, symbols, fonts, scripts, resources, opts);
 
-    if (!window.edge_authoring_mode) AdobeEdge.getComposition(compId).load("openingoverview_edgeActions.js");
+    if (!window.edge_authoring_mode) AdobeEdge.getComposition(compId).load("start_edgeActions.js");
 })("EDGE-115245901");
