@@ -15,7 +15,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
       
       Symbol.bindElementAction(compId, symbolName, "${Stage}", "touchend", function(sym, e) {
          // insert code to be run when a user stops touching an object (for touch devices only)
-         
       });
       //Edge binding end
 
@@ -51,10 +50,11 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          sym.animTimelineLength = 10000;
          
          var curPos = 0;
+         var parallax = sym.getSymbol("Paralex");
          
          sym.onSwipe = function(pos) {
          	var diff = sym.startPos - pos;
-         	curPos += diff / 1000;
+         	curPos += diff / 200;
          
          	if (curPos < 0) curPos = 0;
          	if (curPos > 2048) curPos = 1536;
@@ -62,8 +62,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          	calculatedPos = (curPos / sym.stageWidth) * sym.animTimelineLength;
          
          	// scrub to corresponding anim frame
-         
-         	sym.getSymbol("Paralex").stop(calculatedPos);
+         	parallax.stop(calculatedPos);
          };
          
          
@@ -87,7 +86,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          
          //function to call when shake occurs
          function shakeEventDidOccur() {
-         	var parallax = sym.getSymbol("Paralex");
+         	console.log('i was shaken');
          	var foreground = parallax.getSymbol("wholeforeground");
          	var midground = parallax.getSymbol("wholemidground");
          	var background = parallax.getSymbol("Wholebackground");
