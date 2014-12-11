@@ -1072,4 +1072,20 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    })("oldmanend");
    //Edge symbol end:'oldmanend'
 
+   //=========================================================
+   
+   //Edge symbol: 'meadowStripe'
+   (function(symbolName) {   
+   
+   })("meadowStripe");
+   //Edge symbol end:'meadowStripe'
+
+   //=========================================================
+   
+   //Edge symbol: 'asphaltStripe'
+   (function(symbolName) {   
+   
+   })("asphaltStripe");
+   //Edge symbol end:'asphaltStripe'
+
 })(window.jQuery || AdobeEdge.$, AdobeEdge, "EDGE-46349536");
