@@ -69,8 +69,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          //shake
          yepnope({
          	nope: [
-         'bower_components/shake.js/shake.js',
-         'bower_components/greensock/src/uncompressed/TweenMax.js'
+         'bower_components/shake.js/shake.js'
          ],
          	complete: init
          });
@@ -147,7 +146,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          		//scene 3 - lunatics ____
          		background.$("sittingluna2").show();
          		background.getSymbol("sittingluna2").getSymbol("sprite").play();
-         		background.getSymbol("BGlunatic2").show();
+         		background.$("BGlunatic2").show();
          		background.$("sittingluna").show();
       
       
@@ -233,7 +232,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
       
          		//Lunatics
       
-         		background.getSymbol("BGlunatic2").show();
+         		background.$("BGlunatic2").show();
       
       
          	} else if (count == 6) {
