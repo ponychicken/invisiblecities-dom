@@ -320,14 +320,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
 
    //=========================================================
    
-   //Edge symbol: 'background'
-   (function(symbolName) {   
-   
-   })("background");
-   //Edge symbol end:'background'
-
-   //=========================================================
-   
    //Edge symbol: 'Background'
    (function(symbolName) {   
    
