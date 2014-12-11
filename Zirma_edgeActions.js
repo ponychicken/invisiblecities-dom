@@ -89,7 +89,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          	console.log('i was shaken');
          	var foreground = parallax.getSymbol("wholeforeground");
          	var midground = parallax.getSymbol("wholemidground");
-         	var background = parallax.getSymbol("Wholebackground");
+         	var background = parallax.getSymbol("wholebackground");
          
          	// select a dom element
          	count++;
@@ -348,7 +348,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
 
    //=========================================================
    
-   //Edge symbol: 'Wholebackground'
+   //Edge symbol: 'wholebackground'
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 1500, function(sym, e) {
@@ -365,8 +365,8 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
       });
       //Edge binding end
 
-   })("Wholebackground");
-   //Edge symbol end:'Wholebackground'
+   })("wholebackground");
+   //Edge symbol end:'wholebackground'
 
    //=========================================================
    

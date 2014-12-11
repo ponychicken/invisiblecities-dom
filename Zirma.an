@@ -1396,7 +1396,7 @@
       \"Default Timeline\": {\
       }\
    }},\
-\"Wholebackground\": {\
+\"wholebackground\": {\
    \"timelines\": {\
       \"Default Timeline\": {\
       }\
@@ -2130,7 +2130,7 @@
 			"timelineColor3":"0x5b6c4d",
 			"animationEnabled":"false",
 			"timelineColor":"0x91c767"},
-		"element_${Wholebackground}":{
+		"element_${wholebackground}":{
 			"timelineColor2":"0xd8b467",
 			"timelineColor3":"0x81714f",
 			"animationEnabled":"true",
@@ -4057,7 +4057,7 @@
 	"expanded:symbols/background/skyscraper.png":"nil",
 	"expanded:symbols/Lunatic/bigluna3-1.png":"nil",
 	"FGpumagirl-Default Timeline_playhead_ms":"0",
-	"Wholebackground-Default Timeline_playhead_ms":"0",
+	"wholebackground-Default Timeline_playhead_ms":"0",
 	"FGpumagirls-Default Timeline_playhead_ms":"0",
 	"expanded:images/Tatto1.png":"nil",
 	"StageZoomFactor":"10",
@@ -4276,7 +4276,7 @@
 	"expanded:images/building2.png":"nil",
 	"treeluna-Default Timeline_mark_ms":"-1",
 	"expanded:images/factory_01.png":"nil",
-	"Wholebackground-Default Timeline_mark_ms":"-1",
+	"wholebackground-Default Timeline_mark_ms":"-1",
 	"expanded:symbols/Lunatic/bigluna3.png":"nil",
 	"expanded:symbols/midground/images/factory_01.png":"nil",
 	"expanded:background/2/3/images/PARALEX_04-1.png":"nil",
@@ -4290,7 +4290,7 @@
 	"expanded:symbols/midground/1.png":"nil",
 	"expanded:images/BG1_05.png":"nil",
 	"expanded:images/BG3_03.png":"nil",
-	"symbol_Wholebackground":{
+	"symbol_wholebackground":{
 		"element_${BGtrees}":{
 			"timelineColor2":"0xba5b89",
 			"timelineColor3":"0x734a5f",

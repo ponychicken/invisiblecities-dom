@@ -711,8 +711,8 @@
                     dom: [
                         {
                             rect: [17, -803, 18086, 2148, 'auto', 'auto'],
-                            id: 'Wholebackground',
-                            symbolName: 'Wholebackground',
+                            id: 'wholebackground',
+                            symbolName: 'wholebackground',
                             type: 'rect'
                         },
                         {
@@ -778,7 +778,7 @@
                             0,
                             10007,
                             "linear",
-                            "${Wholebackground}",
+                            "${wholebackground}",
                             '17px',
                             '-8048px'
                         ],
@@ -808,7 +808,7 @@
                             0,
                             0,
                             "linear",
-                            "${Wholebackground}",
+                            "${wholebackground}",
                             '-803px',
                             '-803px'
                         ],
@@ -968,7 +968,7 @@
                     ]
                 }
             },
-            "Wholebackground": {
+            "wholebackground": {
                 version: "5.0.1",
                 minimumCompatibleVersion: "5.0.0",
                 build: "5.0.1.386",
