@@ -17,55 +17,55 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          // insert code to be run when a user stops touching an object (for touch devices only)
       });
       //Edge binding end
-
+      
       Symbol.bindElementAction(compId, symbolName, "${Stage}", "touchmove", function(sym, e) {
          // insert code to be run when a user drags an object (for touch devices only)
          if ( e.pageX == undefined ) {
          	e.preventDefault();
-         
+      
          	var touch = e.originalEvent.touches [0] || e.originalEvent.changedTouches [0];
-         
+      
          	sym.getComposition().getStage().onSwipe( touch.pageX );
          }
-         
-
+      
+      
       });
       //Edge binding end
-
+      
       Symbol.bindElementAction(compId, symbolName, "${Stage}", "touchstart", function(sym, e) {
          // insert code to be run when a user touches the object (for touch devices only)
          if ( e.pageX == undefined ) {
          	e.preventDefault();
-         
+      
          	var touch = e.originalEvent.touches [0] || e.originalEvent.changedTouches [0];
-         
+      
          	sym.startPos = touch.pageX;
          }
-
+      
       });
       //Edge binding end
-
+      
       Symbol.bindSymbolAction(compId, symbolName, "creationComplete", function(sym, e) {
          sym.stageWidth = sym.$('Stage').width();
          sym.animTimelineLength = 10000;
-         
+      
          var curPos = 0;
          var parallax = sym.getSymbol("Paralex");
-         
+      
          sym.onSwipe = function(pos) {
          	var diff = sym.startPos - pos;
          	curPos += diff / 200;
-         
+      
          	if (curPos < 0) curPos = 0;
          	if (curPos > 2048) curPos = 1536;
-         
+      
          	calculatedPos = (curPos / sym.stageWidth) * sym.animTimelineLength;
-         
+      
          	// scrub to corresponding anim frame
          	parallax.stop(calculatedPos);
          };
-         
-         
+      
+      
          //shake
          yepnope({
          	nope: [
@@ -76,137 +76,137 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          });
          //when yepnope has loaded everything execute init();
          function init() {
-         
+      
          }
-         
-         
+      
+      
          var count = 0;
-         
-         
-         
+      
+      
+      
          //function to call when shake occurs
          function shakeEventDidOccur() {
          	console.log('i was shaken');
          	var foreground = parallax.getSymbol("wholeforeground");
          	var midground = parallax.getSymbol("wholemidground");
          	var background = parallax.getSymbol("wholebackground");
-         
+      
          	// select a dom element
          	count++;
-         
+      
          	if (count == 1) {
-         
+      
          		foreground.getSymbol("lunamove").play();
-         
+      
          		//____first scene___ puma
          		foreground.$("FGpumagirls").show();
-         
+      
          		//____scene 2 planes____
          		midground.getSymbol("objectsmidground").$("MGplane12").show();
          		midground.getSymbol("objectsmidground").getSymbol("MGplane12").play();
-         
+      
          		//____scene 3 - lunatics___
          		//show sitting luna
          		background.$("sittingluna").show();
          		background.$("BGlunatic2").show();
          		background.getSymbol("BGlunatic2").play();
-         
+      
          		//______scene 4 old man_____
          		// Show an element
          		midground.getSymbol("objectsmidground").$("oldman5").show();
          		midground.getSymbol("objectsmidground").getSymbol("oldman5").play();
-         
-         
+      
+      
          		//____scene 5 - sailor_____
          		midground.getSymbol("objectsmidground").$("sailor2").show();
-         
-         
+      
+      
          		//___scene 6 (bench)
          		// Show an element
          		midground.$("lunabehindtree1").show();
-         
-         
+      
+      
          	} else if (count == 2) {
-         
+      
          		//____scene 6 - bench
          		midground.$("lunabehindtree1").hide();
          		midground.$("bencholdman").show();
-         
-         
-         
+      
+      
+      
          		//_____first scene____Puma:
          		//show BGpuma1 & 2
          		background.$("BGpuma1").show();
          		background.getSymbol("part1").$("BGpuma1Copy").show();
-         
+      
          		//____second scene____Planes:
          		//show planes 3&4
          		background.$("plane3").show();
          		background.$("plane42").show();
-         
+      
          		//scene 3 - lunatics ____
          		background.$("sittingluna2").show();
          		background.getSymbol("sittingluna2").getSymbol("sprite").play();
-         		background.getSymbol("BGluna2").$("BGlunaticCopy").show();
+         		background.getSymbol("BGlunatic2").show();
          		background.$("sittingluna").show();
-         
-         
+      
+      
          		//____scene 4 old man____
          		midground.getSymbol("objectsmidground").$("oldman3").show();
          		midground.getSymbol("objectsmidground").getSymbol("oldman3").play();
-         
+      
          		//scene 5 - Sailor_____
          		midground.$("sailor3").show();
-         
+      
          		//Scene 6 - bench
-         
+      
          	} else if (count == 3) {
-         
+      
          		//____scene 6 - bench
          		midground.$("bencholdman").hide();
          		midground.getSymbol("objectsmidground").$("sailorsit3").show();
-         
-         
-         
-         
+      
+      
+      
+      
          		//___first scene: Puma walk__
          		midground.$("Mgpumagirl2").show();
-         
+      
          		//___second scene: planes__
          		background.$("plane2").show();
-         
+      
          		//___scene 4 - old man___
          		midground.getSymbol("objectsmidground").$("crowdmen2").show();
          		midground.getSymbol("objectsmidground").getSymbol("crowdmen2").play();
-         
-         
+      
+      
          		//scene 3 -- Lunatics___
          		background.$("BGlunatic3").show();
          		background.$("BGlunatic4").show();
-         
+      
          		//___scene 6 - BENCH
          		midground.$("bencholdman").hide();
-         
+      
          	} else if (count == 4) {
-         
+      
          		//____scene 6 ____bench
          		midground.$("bencholdman").show();
          		midground.$("lunabehindtree1").show();
-         
-         
+      
+      
          		//_____stage 1 : PUMA______
          		// hide all except midpuma1
          		background.$("BGpuma1").hide();
          		background.getSymbol("part1").$("BGpuma1Copy").hide();
-         
-         
-         
+      
+      
+      
          		//___scene 3 : lunatics___
          		// show sitting luna3
          		background.$("sittingluna3").show();
-         
-         
-         
+      
+      
+      
          		//___scene 4 - old man
          		//___planes___
          		midground.getSymbol("objectsmidground").$("MGplane3").show();
@@ -214,72 +214,65 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          		midground.getSymbol("objectsmidground").$("crowdmen2").hide();
          		midground.getSymbol("objectsmidground").$("oldman5").hide();
          		midground.getSymbol("objectsmidground").$("oldman3").hide();
-         
+      
          	} else if (count == 5) {
-         
+      
          		midground.$("Mgpumagirl2").hide();
-         
+      
          		//___planes___
          		background.$("plane3").hide();
          		background.$("plane42").hide();
          		midground.getSymbol("objectsmidground").$("MGplane12").hide();
-         
-         
-         
+      
+      
+      
          		midground.$("lunabehindtree2").show();
-         
+      
          		midground.$("sailor4").show();
          		midground.$("endoldman2").show();
-         
+      
          		//Lunatics
-         
-         		background.getSymbol("BGluna2").$("BGlunaticCopy2").show();
-         
-         
+      
+         		background.getSymbol("BGlunatic2").show();
+      
+      
          	} else if (count == 6) {
          		//Scene 6 ____bench
-         
+      
          		midground.$("sailor4").hide();
-         
+      
          		midground.$("bencholdman").hide();
          		midground.$("endoldman2").hide();
          		midground.$("lunabehindtree1").hide();
          		midground.$("lunabehindtree2").hide();
          		midground.getSymbol("objectsmidground").$("sailorsit3").hide();
-         
+      
          		//____PUMA_____
-         
+      
          		foreground.$("FGpumagirls").hide();
-         
+      
          		//Planes_____
          		midground.getSymbol("objectsmidground").$("MGplane3").hide();
-         
+      
          		//lunatics
-         
-         
          		background.$("sittingluna").hide();
-         
-         		// Set a toggle to hide or show an element
-         		background.$("BGlunatic2").toggle();
-         
          		background.$("sittingluna2").hide();
+         		background.$("BGlunatic2").hide();
          		background.$("BGlunatic3").hide();
          		background.$("BGlunatic4").hide();
          		background.$("sittingluna3").hide();
-         
+      
          	} else if (count == 7) {
-         		// Hide an element
          		background.$("plane2").hide();
-         
          		count = 0;
          	}
          }
-         
-         
-         
+      
+      
+      
          // shakeEventDidOccur();
          window.addEventListener('shake', shakeEventDidOccur, false);
-
+      
       });
       //Edge binding end
 
