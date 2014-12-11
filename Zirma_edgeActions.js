@@ -13,35 +13,23 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {
       
       
-      Symbol.bindElementAction(compId, symbolName, "${Stage}", "touchend", function(sym, e) {
-         // insert code to be run when a user stops touching an object (for touch devices only)
-      });
-      //Edge binding end
+      
       
       Symbol.bindElementAction(compId, symbolName, "${Stage}", "touchmove", function(sym, e) {
-         // insert code to be run when a user drags an object (for touch devices only)
-         if ( e.pageX == undefined ) {
-         	e.preventDefault();
-      
-         	var touch = e.originalEvent.touches [0] || e.originalEvent.changedTouches [0];
-      
-         	sym.getComposition().getStage().onSwipe( touch.pageX );
-         }
-      
-      
+         e.preventDefault();
+         var touch = e.touches[0] || e.changedTouches[0];
+         sym.getComposition().getStage().onSwipe( touch.pageX );
+         
       });
       //Edge binding end
       
       Symbol.bindElementAction(compId, symbolName, "${Stage}", "touchstart", function(sym, e) {
-         // insert code to be run when a user touches the object (for touch devices only)
-         if ( e.pageX == undefined ) {
-         	e.preventDefault();
-      
-         	var touch = e.originalEvent.touches [0] || e.originalEvent.changedTouches [0];
-      
-         	sym.startPos = touch.pageX;
-         }
-      
+         e.preventDefault();
+
+         var touch = e.touches[0] || e.changedTouches[0];
+
+         sym.startPosTouch = touch.pageX;
+         sym.startPosTime = curPos;
       });
       //Edge binding end
       
@@ -49,22 +37,22 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
          sym.stageWidth = sym.$('Stage').width();
          sym.animTimelineLength = 10000;
       
-         var curPos = 0;
+         curPos = 0;
          var parallax = sym.getSymbol("Paralex");
       
          sym.onSwipe = function(pos) {
-         	var diff = sym.startPos - pos;
-         	curPos += diff / 200;
-      
-         	if (curPos < 0) curPos = 0;
-         	if (curPos > 2048) curPos = 1536;
-      
-         	calculatedPos = (curPos / sym.stageWidth) * sym.animTimelineLength;
+            var diff = sym.startPosTouch - pos;
+            curPos = sym.startPosTime + diff/10;
+
+            if (curPos < 0) curPos = 0;
+            if (curPos > 2048) curPos = 2048;
+
+            calculatedPos = (curPos/sym.stageWidth) * sym.animTimelineLength;
       
          	// scrub to corresponding anim frame
          	parallax.stop(calculatedPos);
          };
-      
+         
       
          //shake
          yepnope({
@@ -757,11 +745,8 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    //Edge symbol: 'leaaf'
    (function(symbolName) {   
    
-      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 35000, function(sym, e) {
-         
+      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 35000, function(sym, e) {      
          sym.play();
-         x
-
       });
       //Edge binding end
 
@@ -774,9 +759,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 53018, function(sym, e) {
-         
          sym.play();
-
       });
       //Edge binding end
 
