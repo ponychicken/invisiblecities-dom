@@ -2080,7 +2080,7 @@
 	"expanded:images/foreground3_06.png":"nil",
 	"expanded:images/foreground2_02.png":"nil",
 	"BGtrees-Default Timeline_playhead_ms":"0",
-	"expanded:images/bigluna3-1.png":"nil",
+	"expanded:images/bigluna3.png":"nil",
 	"expanded:images/2.png":"nil",
 	"expanded:images/bg-2_04.png":"nil",
 	"symbol_BGlunatic":{
@@ -4620,7 +4620,7 @@
 	"expanded:background/2/3/images/PARALEX_03.png":"nil",
 	"expanded:images/BG1_06.png":"nil",
 	"expanded:symbols/background/skyscraper.png":"nil",
-	"expanded:symbols/Lunatic/bigluna3-1.png":"nil",
+	"expanded:symbols/Lunatic/bigluna3.png":"nil",
 	"FGpumagirl-Default Timeline_playhead_ms":"0",
 	"wholebackground-Default Timeline_playhead_ms":"0",
 	"pixelsPerMs":"0.0034853347909227",

@@ -4406,7 +4406,7 @@
                                 rect: [1800, 0, '900px', '1142px', 'auto', 'auto'],
                                 id: 'bigluna3-1',
                                 type: 'image',
-                                fill: ['rgba(0,0,0,0)', 'symbols/Lunatic/bigluna3-1.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'symbols/Lunatic/bigluna3.png', '0px', '0px']
                             },
                             {
                                 rect: [900, 0, '900px', '1142px', 'auto', 'auto'],
@@ -5271,7 +5271,7 @@
                                 rect: [1041, 528, '900px', '1142px', 'auto', 'auto'],
                                 id: 'bigluna3-1',
                                 type: 'image',
-                                fill: ['rgba(0,0,0,0)', 'symbols/Lunatic/bigluna3-1.png', '0px', '0px']
+                                fill: ['rgba(0,0,0,0)', 'symbols/Lunatic/bigluna3.png', '0px', '0px']
                             },
                             {
                                 rect: [469, 236, '900px', '1142px', 'auto', 'auto'],
