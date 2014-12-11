@@ -509,14 +509,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
 
    //=========================================================
    
-   //Edge symbol: 'BGluna2'
-   (function(symbolName) {   
-   
-   })("BGluna2");
-   //Edge symbol end:'BGluna2'
-
-   //=========================================================
-   
    //Edge symbol: 'sittingluna'
    (function(symbolName) {   
    
@@ -548,22 +540,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
 
    })("srite");
    //Edge symbol end:'srite'
-
-   //=========================================================
-   
-   //Edge symbol: 'Bigluna'
-   (function(symbolName) {   
-   
-   })("Bigluna");
-   //Edge symbol end:'Bigluna'
-
-   //=========================================================
-   
-   //Edge symbol: 'smoke'
-   (function(symbolName) {   
-   
-   })("smoke");
-   //Edge symbol end:'smoke'
 
    //=========================================================
    
@@ -754,31 +730,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
 
    //=========================================================
    
-   //Edge symbol: 'behindtreeluna2'
-   (function(symbolName) {   
-   
-   })("behindtreeluna2");
-   //Edge symbol end:'behindtreeluna2'
-
-   //=========================================================
-   
-   //Edge symbol: 'lunasprite'
-   (function(symbolName) {   
-   
-      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 2512, function(sym, e) {
-         
-         
-         
-         sym.play(0);
-
-      });
-      //Edge binding end
-
-   })("lunasprite");
-   //Edge symbol end:'lunasprite'
-
-   //=========================================================
-   
    //Edge symbol: 'SKY'
    (function(symbolName) {   
    
@@ -842,21 +793,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
 
    //=========================================================
    
-   //Edge symbol: 'BGPUMAGIRLS2'
-   (function(symbolName) {   
-   
-      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 90134, function(sym, e) {
-         
-         sym.play();
-
-      });
-      //Edge binding end
-
-   })("BGPUMAGIRLS2");
-   //Edge symbol end:'BGPUMAGIRLS2'
-
-   //=========================================================
-   
    //Edge symbol: 'Mgpumagirl2'
    (function(symbolName) {   
    
@@ -877,21 +813,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
 
    })("walk");
    //Edge symbol end:'walk'
-
-   //=========================================================
-   
-   //Edge symbol: 'MGplane'
-   (function(symbolName) {   
-   
-      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 42000, function(sym, e) {
-         
-         sym.play();
-
-      });
-      //Edge binding end
-
-   })("MGplane");
-   //Edge symbol end:'MGplane'
 
    //=========================================================
    
@@ -955,37 +876,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
 
    //=========================================================
    
-   //Edge symbol: 'shaketext'
-   (function(symbolName) {   
-   
-      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 24000, function(sym, e) {
-         
-         sym.play();
-
-      });
-      //Edge binding end
-
-   })("shaketext");
-   //Edge symbol end:'shaketext'
-
-   //=========================================================
-   
-   //Edge symbol: 'shake'
-   (function(symbolName) {   
-   
-   })("shake");
-   //Edge symbol end:'shake'
-
-   //=========================================================
-   
-   //Edge symbol: 'shakerejog'
-   (function(symbolName) {   
-   
-   })("shakerejog");
-   //Edge symbol end:'shakerejog'
-
-   //=========================================================
-   
    //Edge symbol: 'Planetext'
    (function(symbolName) {   
    
@@ -999,21 +889,6 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    
    })("planetext2");
    //Edge symbol end:'planetext2'
-
-   //=========================================================
-   
-   //Edge symbol: 'shakeretorejog'
-   (function(symbolName) {   
-   
-      Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 21000, function(sym, e) {
-         
-         sym.play();
-
-      });
-      //Edge binding end
-
-   })("shakeretorejog");
-   //Edge symbol end:'shakeretorejog'
 
    //=========================================================
    
