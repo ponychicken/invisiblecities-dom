@@ -31,19 +31,19 @@
                             id: 'wholecity1',
                             symbolName: 'wholecity1',
                             type: 'rect',
-                            rect: ['-7', '-103', '2048', '1586', 'auto', 'auto'],
+                            rect: ['-7', '6px', '2048', '1586', 'auto', 'auto'],
                             transform: [[],[],[],['0.87157','0.87157']]
                         },
                         {
                             id: 'clocktower',
                             type: 'image',
-                            rect: ['735', '438', '187', '409', 'auto', 'auto'],
+                            rect: ['735', '547px', '187', '409', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/clocktower.png','0px','0px']
                         },
                         {
                             id: 'click-to-enter',
                             type: 'image',
-                            rect: ['833', '102', '329px', '81px', 'auto', 'auto'],
+                            rect: ['865px', '93px', '329px', '81px', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/text/click-to-enter.png','0px','0px']
                         },
                         {
@@ -56,19 +56,19 @@
                         {
                             id: 'sidewayskyscraperCopy2',
                             type: 'image',
-                            rect: ['1706', '371', '204', '373', 'auto', 'auto'],
+                            rect: ['1706', '480px', '204', '373', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"sidewayskyscraper.png",'0px','0px']
                         },
                         {
                             id: 'sidewayskyscraperCopy',
                             type: 'image',
-                            rect: ['1663', '557', '204', '373', 'auto', 'auto'],
+                            rect: ['1663', '666px', '204', '373', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"sidewayskyscraper.png",'0px','0px']
                         },
                         {
                             id: 'veggie',
                             type: 'image',
-                            rect: ['1224', '405', '213', '228', 'auto', 'auto'],
+                            rect: ['1224', '514px', '213', '228', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"veggie.png",'0px','0px'],
                             transform: [[],[],[],['1.01408']]
                         },
@@ -76,7 +76,7 @@
                             id: 'bgcurrywurst',
                             symbolName: 'bgcurrywurst',
                             type: 'rect',
-                            rect: ['1264', '331', '398', '383', 'auto', 'auto'],
+                            rect: ['1264', '440px', '398', '383', 'auto', 'auto'],
                             overflow: 'hidden',
                             transform: [[],[],[],['0.48846','0.49215']]
                         },
@@ -99,38 +99,38 @@
                         {
                             id: 'tree',
                             type: 'image',
-                            rect: ['210', '325', '107', '325', 'auto', 'auto'],
+                            rect: ['210', '434px', '107', '325', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"tree.png",'0px','0px']
                         },
                         {
                             id: 'treeCopy',
                             type: 'image',
-                            rect: ['337', '249', '107', '325', 'auto', 'auto'],
+                            rect: ['337', '358px', '107', '325', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"tree.png",'0px','0px']
                         },
                         {
                             id: 'treeCopy3',
                             type: 'image',
-                            rect: ['645', '163', '107', '325', 'auto', 'auto'],
+                            rect: ['645', '272px', '107', '325', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"tree.png",'0px','0px']
                         },
                         {
                             id: 'treeCopy4',
                             type: 'image',
-                            rect: ['471', '183', '107', '325', 'auto', 'auto'],
+                            rect: ['471', '292px', '107', '325', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"tree.png",'0px','0px'],
                             transform: [[],[],[],['-1.20055']]
                         },
                         {
                             id: 'billboard',
                             type: 'image',
-                            rect: ['591', '850', '308', '269', 'auto', 'auto'],
+                            rect: ['591', '959px', '308', '269', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"billboard.png",'0px','0px']
                         },
                         {
                             id: 'veggieCopy',
                             type: 'image',
-                            rect: ['815', '687', '213', '228', 'auto', 'auto'],
+                            rect: ['815', '796px', '213', '228', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"veggie.png",'0px','0px'],
                             transform: [[],[],[],['1.01408']]
                         },
@@ -138,7 +138,7 @@
                             id: 'sittingluna',
                             symbolName: 'sittingluna',
                             type: 'rect',
-                            rect: ['748', '803', '155', '202', 'auto', 'auto'],
+                            rect: ['748', '912px', '155', '202', 'auto', 'auto'],
                             overflow: 'hidden',
                             transform: [[],[],[],['0.51095','0.51095']]
                         },
@@ -146,7 +146,7 @@
                             id: 'sittinglunaCopy',
                             symbolName: 'sittingluna',
                             type: 'rect',
-                            rect: ['844', '155', '155', '202', 'auto', 'auto'],
+                            rect: ['844', '264px', '155', '202', 'auto', 'auto'],
                             overflow: 'hidden',
                             opacity: '0',
                             transform: [[],[],[],['0.42221','0.42221']]
@@ -154,13 +154,13 @@
                         {
                             id: 'car1',
                             type: 'image',
-                            rect: ['1076', '790', '336', '153', 'auto', 'auto'],
+                            rect: ['1076', '899px', '336', '153', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/car1.png','0px','0px']
                         },
                         {
                             id: 'car2',
                             type: 'image',
-                            rect: ['1102', '863', '336', '162', 'auto', 'auto'],
+                            rect: ['1102', '972px', '336', '162', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/car2.png','0px','0px']
                         },
                         {
@@ -174,7 +174,7 @@
                             id: 'pumagirl2',
                             symbolName: 'pumagirl1',
                             type: 'rect',
-                            rect: ['221', '482', '550', '75', 'auto', 'auto'],
+                            rect: ['221', '591px', '550', '75', 'auto', 'auto'],
                             opacity: '0',
                             transform: [[],[],[],['-0.87029','0.83372']]
                         },
@@ -182,7 +182,7 @@
                             id: 'pumagirl3',
                             symbolName: 'pumagirl1',
                             type: 'rect',
-                            rect: ['477', '527', '550', '75', 'auto', 'auto'],
+                            rect: ['477', '636px', '550', '75', 'auto', 'auto'],
                             opacity: '0',
                             transform: [[],[],[],['0.89388','0.83372']]
                         },
@@ -190,47 +190,47 @@
                             id: 'pumagirl4',
                             symbolName: 'pumagirl1',
                             type: 'rect',
-                            rect: ['337', '413', '550', '75', 'auto', 'auto'],
+                            rect: ['337', '522px', '550', '75', 'auto', 'auto'],
                             opacity: '1',
                             transform: [[],[],[],['-0.87029','0.83372']]
                         },
                         {
                             id: 'treeCopy5',
                             type: 'image',
-                            rect: ['740', '256', '107', '325', 'auto', 'auto'],
+                            rect: ['740', '365px', '107', '325', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"tree.png",'0px','0px'],
                             transform: [[],[],[],['-1.20055']]
                         },
                         {
                             id: 'treeCopy2',
                             type: 'image',
-                            rect: ['556', '292', '107', '325', 'auto', 'auto'],
+                            rect: ['556', '401px', '107', '325', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"tree.png",'0px','0px']
                         },
                         {
                             id: 'treeCopy9',
                             type: 'image',
-                            rect: ['442', '385', '107', '325', 'auto', 'auto'],
+                            rect: ['442', '494px', '107', '325', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"tree.png",'0px','0px']
                         },
                         {
                             id: 'treeCopy6',
                             type: 'image',
-                            rect: ['364', '371', '107', '325', 'auto', 'auto'],
+                            rect: ['364', '480px', '107', '325', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"tree.png",'0px','0px'],
                             transform: [[],[],[],['-1.20055']]
                         },
                         {
                             id: 'treeCopy7',
                             type: 'image',
-                            rect: ['603', '397', '107', '325', 'auto', 'auto'],
+                            rect: ['603', '506px', '107', '325', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"tree.png",'0px','0px'],
                             transform: [[],[],[],['-1.20055']]
                         },
                         {
                             id: 'treeCopy8',
                             type: 'image',
-                            rect: ['238', '378', '107', '325', 'auto', 'auto'],
+                            rect: ['238', '487px', '107', '325', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"tree.png",'0px','0px'],
                             transform: [[],[],[],['-1.20055']]
                         },
@@ -238,7 +238,7 @@
                             id: 'oldman2',
                             symbolName: 'oldman',
                             type: 'rect',
-                            rect: ['1178', '450', '128', '300', 'auto', 'auto'],
+                            rect: ['1178', '559px', '128', '300', 'auto', 'auto'],
                             overflow: 'hidden',
                             transform: [[],[],[],['-0.29305','0.28429']]
                         },
@@ -253,7 +253,7 @@
                             id: 'oldman3',
                             symbolName: 'oldman',
                             type: 'rect',
-                            rect: ['1217', '473', '128', '300', 'auto', 'auto'],
+                            rect: ['1217', '582px', '128', '300', 'auto', 'auto'],
                             overflow: 'hidden',
                             opacity: '0',
                             transform: [[],[],[],['-0.29305','0.28429']]
@@ -262,7 +262,7 @@
                             id: 'oldman4',
                             symbolName: 'oldman',
                             type: 'rect',
-                            rect: ['1266', '457', '128', '300', 'auto', 'auto'],
+                            rect: ['1266', '566px', '128', '300', 'auto', 'auto'],
                             overflow: 'hidden',
                             opacity: '0',
                             transform: [[],[],[],['0.29304','0.28429']]
@@ -271,7 +271,7 @@
                             id: 'groupmen2',
                             symbolName: 'groupmen2',
                             type: 'rect',
-                            rect: ['1237', '553', '161', '112', 'auto', 'auto'],
+                            rect: ['1237', '662px', '161', '112', 'auto', 'auto'],
                             opacity: '0'
                         },
                         {
@@ -285,33 +285,33 @@
                         {
                             id: 'sidewayskyscraper',
                             type: 'image',
-                            rect: ['1496', '623', '248', '454', 'auto', 'auto'],
+                            rect: ['1496', '732px', '248', '454', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",im+"sidewayskyscraper.png",'0px','0px']
                         },
                         {
                             id: 'bigblue',
                             type: 'image',
-                            rect: ['467', '560', '204', '303', 'auto', 'auto'],
+                            rect: ['467', '669px', '204', '303', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/bigblue.png','0px','0px']
                         },
                         {
                             id: 'cafe',
                             type: 'image',
-                            rect: ['1454', '455', '211', '188', 'auto', 'auto'],
+                            rect: ['1454', '564px', '211', '188', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/cafe.png','0px','0px'],
                             transform: [[],[],[],['-0.9937']]
                         },
                         {
                             id: 'cafeCopy2',
                             type: 'image',
-                            rect: ['844', '580', '211', '188', 'auto', 'auto'],
+                            rect: ['844', '689px', '211', '188', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/cafe.png','0px','0px'],
                             transform: [[],[],[],['-0.9937']]
                         },
                         {
                             id: 'cafeCopy',
                             type: 'image',
-                            rect: ['1175', '602', '211', '188', 'auto', 'auto'],
+                            rect: ['1175', '711px', '211', '188', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/cafe.png','0px','0px'],
                             transform: [[],[],[],['0.9937']]
                         },
@@ -319,38 +319,38 @@
                             id: 'plane1',
                             symbolName: 'plane1',
                             type: 'rect',
-                            rect: ['22', '119', '2046', '321', 'auto', 'auto']
+                            rect: ['24px', '247px', '2046', '321', 'auto', 'auto']
                         },
                         {
                             id: 'plane2',
                             symbolName: 'plane1',
                             type: 'rect',
-                            rect: ['-96', '413', '2046', '321', 'auto', 'auto'],
+                            rect: ['-96', '522px', '2046', '321', 'auto', 'auto'],
                             opacity: '0',
                             transform: [[],[],[],['-1.01696']]
                         },
                         {
                             id: 'lampost',
                             type: 'image',
-                            rect: ['1330', '551', '61', '229', 'auto', 'auto'],
+                            rect: ['1330', '660px', '61', '229', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/lampost.png','0px','0px']
                         },
                         {
                             id: 'building-1',
                             type: 'image',
-                            rect: ['302', '558', '204', '332', 'auto', 'auto'],
+                            rect: ['302', '667px', '204', '332', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/building-1.png','0px','0px']
                         },
                         {
                             id: 'bench',
                             type: 'image',
-                            rect: ['1408', '723', '128', '139', 'auto', 'auto'],
+                            rect: ['1408', '832px', '128', '139', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/bench.png','0px','0px']
                         },
                         {
                             id: 'benchCopy',
                             type: 'image',
-                            rect: ['964', '734', '128', '139', 'auto', 'auto'],
+                            rect: ['964', '843px', '128', '139', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/bench.png','0px','0px'],
                             transform: [[],[],[],['-0.95911'],['133.45%','54.14%']]
                         },
@@ -358,7 +358,7 @@
                             id: 'sailorsit2',
                             symbolName: 'sailorsit',
                             type: 'rect',
-                            rect: ['1198', '468', '500', '607', 'auto', 'auto'],
+                            rect: ['1198', '577px', '500', '607', 'auto', 'auto'],
                             overflow: 'hidden',
                             opacity: '0',
                             transform: [[],[],[],['0.15868','0.15868']]
@@ -367,7 +367,7 @@
                             id: 'sailorsmoke2',
                             symbolName: 'sailorsmoke',
                             type: 'rect',
-                            rect: ['1204', '448', '351', '549', 'auto', 'auto'],
+                            rect: ['1204', '557px', '351', '549', 'auto', 'auto'],
                             overflow: 'hidden',
                             opacity: '0',
                             transform: [[],['2'],[],['0.17379','0.17379']]
@@ -376,7 +376,7 @@
                             id: 'sailor',
                             symbolName: 'sailor',
                             type: 'rect',
-                            rect: ['1164', '469', '272', '568', 'auto', 'auto'],
+                            rect: ['1164', '578px', '272', '568', 'auto', 'auto'],
                             overflow: 'hidden',
                             transform: [[],[],[],['-0.17034','0.16958']]
                         },
@@ -390,14 +390,14 @@
                         {
                             id: 'factory',
                             type: 'image',
-                            rect: ['324', '623', '286', '429', 'auto', 'auto'],
+                            rect: ['324', '732px', '286', '429', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/factory.png','0px','0px']
                         },
                         {
                             id: 'bgluna1',
                             symbolName: 'bgluna1',
                             type: 'rect',
-                            rect: ['1476', '524', '125', '166', 'auto', 'auto'],
+                            rect: ['1476', '633px', '125', '166', 'auto', 'auto'],
                             overflow: 'hidden',
                             opacity: '0',
                             transform: [[],[],[],['0.57476','0.57476']]
@@ -405,20 +405,20 @@
                         {
                             id: 'crane',
                             type: 'image',
-                            rect: ['876', '633', '435', '429', 'auto', 'auto'],
+                            rect: ['876', '742px', '435', '429', 'auto', 'auto'],
                             fill: ["rgba(0,0,0,0)",'cityoverview/images/crane.png','0px','0px']
                         },
                         {
                             id: 'rectangle',
                             symbolName: 'rectangle',
                             type: 'rect',
-                            rect: ['4', '8', '2048', '1536', 'auto', 'auto']
+                            rect: ['4', '117px', '2048', '1536', 'auto', 'auto']
                         },
                         {
                             id: 'button2',
                             symbolName: 'button',
                             type: 'rect',
-                            rect: ['57px', '43', '1942', '1465', 'auto', 'auto'],
+                            rect: ['46px', '35px', '1942', '1465', 'auto', 'auto'],
                             opacity: '0'
                         }
                     ],
@@ -486,6 +486,16 @@
                             '1'
                         ],
                         [
+                            "eid347",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${oldman4}",
+                            '566px',
+                            '566px'
+                        ],
+                        [
                             "eid198",
                             "scaleX",
                             30000,
@@ -516,6 +526,26 @@
                             '1476px'
                         ],
                         [
+                            "eid360",
+                            "left",
+                            6066,
+                            0,
+                            "linear",
+                            "${plane1}",
+                            '24px',
+                            '24px'
+                        ],
+                        [
+                            "eid341",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${sailorsmoke2}",
+                            '557px',
+                            '557px'
+                        ],
+                        [
                             "eid200",
                             "left",
                             30000,
@@ -526,14 +556,14 @@
                             '477px'
                         ],
                         [
-                            "eid101",
+                            "eid356",
                             "top",
                             5940,
-                            0,
+                            126,
                             "linear",
                             "${pumagirl1}",
                             '586px',
-                            '586px'
+                            '695px'
                         ],
                         [
                             "eid102",
@@ -586,13 +616,13 @@
                             '1'
                         ],
                         [
-                            "eid115",
+                            "eid351",
                             "top",
-                            10000,
-                            0,
+                            6066,
+                            3934,
                             "linear",
                             "${pumagirl2}",
-                            '482px',
+                            '591px',
                             '482px'
                         ],
                         [
@@ -606,43 +636,63 @@
                             '221px'
                         ],
                         [
-                            "eid332",
+                            "eid359",
                             "left",
                             6066,
                             0,
                             "linear",
                             "${button2}",
-                            '57px',
-                            '57px'
+                            '46px',
+                            '46px'
                         ],
                         [
-                            "eid108",
+                            "eid353",
+                            "top",
+                            6066,
+                            13286,
+                            "linear",
+                            "${plane2}",
+                            '522px',
+                            '413px'
+                        ],
+                        [
+                            "eid339",
                             "top",
                             13,
-                            0,
+                            6053,
                             "linear",
                             "${fallingleaf}",
                             '254px',
-                            '254px'
+                            '363px'
                         ],
                         [
-                            "eid323",
+                            "eid352",
                             "top",
                             6066,
                             0,
                             "linear",
                             "${pumagirl4}",
-                            '413px',
-                            '413px'
+                            '522px',
+                            '522px'
                         ],
                         [
-                            "eid292",
+                            "eid199",
+                            "opacity",
+                            30002,
+                            498,
+                            "linear",
+                            "${pumagirl3}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid350",
                             "top",
-                            20548,
-                            0,
+                            6066,
+                            14482,
                             "linear",
                             "${sittinglunaCopy}",
-                            '155px',
+                            '264px',
                             '155px'
                         ],
                         [
@@ -676,13 +726,23 @@
                             '0.42221'
                         ],
                         [
-                            "eid196",
+                            "eid337",
                             "top",
-                            30000,
+                            6066,
                             0,
                             "linear",
+                            "${bgluna1}",
+                            '633px',
+                            '633px'
+                        ],
+                        [
+                            "eid343",
+                            "top",
+                            6066,
+                            23934,
+                            "linear",
                             "${pumagirl3}",
-                            '527px',
+                            '636px',
                             '527px'
                         ],
                         [
@@ -696,12 +756,42 @@
                             '-66px'
                         ],
                         [
-                            "eid103",
+                            "eid354",
                             "top",
                             5940,
-                            0,
+                            126,
                             "linear",
                             "${bgcurrywurstCopy}",
+                            '577px',
+                            '686px'
+                        ],
+                        [
+                            "eid349",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${sittingluna}",
+                            '912px',
+                            '912px'
+                        ],
+                        [
+                            "eid237",
+                            "opacity",
+                            38013,
+                            750,
+                            "linear",
+                            "${plane32}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid345",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${sailorsit2}",
                             '577px',
                             '577px'
                         ],
@@ -716,6 +806,26 @@
                             '331px'
                         ],
                         [
+                            "eid342",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${rectangle}",
+                            '117px',
+                            '117px'
+                        ],
+                        [
+                            "eid336",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${wholecity1}",
+                            '6px',
+                            '6px'
+                        ],
+                        [
                             "eid291",
                             "left",
                             20548,
@@ -726,14 +836,44 @@
                             '844px'
                         ],
                         [
-                            "eid106",
+                            "eid361",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${plane1}",
+                            '247px',
+                            '247px'
+                        ],
+                        [
+                            "eid355",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${oldman2}",
+                            '559px',
+                            '559px'
+                        ],
+                        [
+                            "eid335",
                             "top",
                             5940,
-                            0,
+                            126,
                             "linear",
                             "${bgcurrywurstCopy2}",
                             '852px',
-                            '852px'
+                            '961px'
+                        ],
+                        [
+                            "eid340",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${bgcurrywurst}",
+                            '440px',
+                            '440px'
                         ],
                         [
                             "eid240",
@@ -746,34 +886,34 @@
                             '1'
                         ],
                         [
-                            "eid124",
+                            "eid346",
                             "top",
                             0,
-                            0,
+                            6066,
                             "linear",
                             "${button2}",
                             '43px',
-                            '43px'
+                            '35px'
                         ],
                         [
-                            "eid278",
-                            "opacity",
-                            20000,
-                            548,
+                            "eid322",
+                            "left",
+                            6066,
+                            0,
                             "linear",
-                            "${groupmen1}",
-                            '0',
-                            '1'
+                            "${pumagirl4}",
+                            '337px',
+                            '337px'
                         ],
                         [
-                            "eid243",
-                            "opacity",
-                            18008,
-                            505,
+                            "eid358",
+                            "top",
+                            6066,
+                            0,
                             "linear",
-                            "${sailorsit2}",
-                            '0',
-                            '1'
+                            "${groupmen2}",
+                            '662px',
+                            '662px'
                         ],
                         [
                             "eid98",
@@ -786,24 +926,24 @@
                             '1'
                         ],
                         [
-                            "eid100",
-                            "left",
-                            5940,
+                            "eid348",
+                            "top",
+                            6066,
                             0,
                             "linear",
-                            "${pumagirl1}",
-                            '192px',
-                            '192px'
+                            "${sailor}",
+                            '578px',
+                            '578px'
                         ],
                         [
-                            "eid321",
-                            "left",
+                            "eid344",
+                            "top",
                             0,
-                            19352,
+                            6066,
                             "linear",
-                            "${plane2}",
-                            '-96px',
-                            '-106px'
+                            "${tattooshop}",
+                            '479px',
+                            '588px'
                         ],
                         [
                             "eid216",
@@ -816,14 +956,14 @@
                             '-1.01696'
                         ],
                         [
-                            "eid199",
-                            "opacity",
-                            30002,
-                            498,
+                            "eid357",
+                            "top",
+                            6066,
+                            0,
                             "linear",
-                            "${pumagirl3}",
-                            '0',
-                            '1'
+                            "${oldman3}",
+                            '582px',
+                            '582px'
                         ],
                         [
                             "eid113",
@@ -836,44 +976,44 @@
                             '0.83372'
                         ],
                         [
-                            "eid168",
-                            "top",
+                            "eid321",
+                            "left",
                             0,
-                            0,
+                            19352,
                             "linear",
-                            "${tattooshop}",
-                            '479px',
-                            '479px'
+                            "${plane2}",
+                            '-96px',
+                            '-106px'
                         ],
                         [
-                            "eid237",
-                            "opacity",
-                            38013,
-                            750,
+                            "eid100",
+                            "left",
+                            5940,
+                            0,
                             "linear",
-                            "${plane32}",
+                            "${pumagirl1}",
+                            '192px',
+                            '192px'
+                        ],
+                        [
+                            "eid243",
+                            "opacity",
+                            18008,
+                            505,
+                            "linear",
+                            "${sailorsit2}",
                             '0',
                             '1'
                         ],
                         [
-                            "eid215",
-                            "top",
-                            19352,
-                            0,
+                            "eid278",
+                            "opacity",
+                            20000,
+                            548,
                             "linear",
-                            "${plane2}",
-                            '413px',
-                            '413px'
-                        ],
-                        [
-                            "eid322",
-                            "left",
-                            6066,
-                            0,
-                            "linear",
-                            "${pumagirl4}",
-                            '337px',
-                            '337px'
+                            "${groupmen1}",
+                            '0',
+                            '1'
                         ],
                         [
                             "eid99",
@@ -994,9 +1134,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '500px', '207px', 'auto', 'auto'],
-                            id: 'Sittingluna',
                             type: 'image',
+                            id: 'Sittingluna',
+                            rect: [0, 0, '500px', '207px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/Sittingluna.png', '0px', '0px']
                         }
                     ],
@@ -1084,9 +1224,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '800px', '383px', 'auto', 'auto'],
-                            id: 'bgwurst',
                             type: 'image',
+                            id: 'bgwurst',
+                            rect: [0, 0, '800px', '383px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/bgwurst.png', '0px', '0px']
                         }
                     ],
@@ -1101,26 +1241,6 @@
                     duration: 750,
                     autoPlay: true,
                     data: [
-                        [
-                            "eid22",
-                            "top",
-                            0,
-                            0,
-                            "linear",
-                            "${bgwurst}",
-                            '0px',
-                            '0px'
-                        ],
-                        [
-                            "eid24",
-                            "top",
-                            500,
-                            0,
-                            "linear",
-                            "${bgwurst}",
-                            '0px',
-                            '3px'
-                        ],
                         [
                             "eid21",
                             "left",
@@ -1140,6 +1260,26 @@
                             "${bgwurst}",
                             '0px',
                             '-426px'
+                        ],
+                        [
+                            "eid22",
+                            "top",
+                            0,
+                            0,
+                            "linear",
+                            "${bgwurst}",
+                            '0px',
+                            '0px'
+                        ],
+                        [
+                            "eid24",
+                            "top",
+                            500,
+                            0,
+                            "linear",
+                            "${bgwurst}",
+                            '0px',
+                            '3px'
                         ]
                     ]
                 }
@@ -1154,9 +1294,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 17, '1024px', '423px', 'auto', 'auto'],
-                            id: 'minitattooshop',
                             type: 'image',
+                            id: 'minitattooshop',
+                            rect: [0, 17, '1024px', '423px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/minitattooshop.png', '0px', '0px']
                         }
                     ],
@@ -1171,26 +1311,6 @@
                     duration: 500,
                     autoPlay: true,
                     data: [
-                        [
-                            "eid25",
-                            "left",
-                            0,
-                            0,
-                            "linear",
-                            "${minitattooshop}",
-                            '0px',
-                            '0px'
-                        ],
-                        [
-                            "eid28",
-                            "left",
-                            250,
-                            0,
-                            "linear",
-                            "${minitattooshop}",
-                            '0px',
-                            '-501px'
-                        ],
                         [
                             "eid26",
                             "top",
@@ -1210,6 +1330,26 @@
                             "${minitattooshop}",
                             '17px',
                             '-2px'
+                        ],
+                        [
+                            "eid25",
+                            "left",
+                            0,
+                            0,
+                            "linear",
+                            "${minitattooshop}",
+                            '0px',
+                            '0px'
+                        ],
+                        [
+                            "eid28",
+                            "left",
+                            250,
+                            0,
+                            "linear",
+                            "${minitattooshop}",
+                            '0px',
+                            '-501px'
                         ]
                     ]
                 }
@@ -1224,9 +1364,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '700px', '705px', 'auto', 'auto'],
-                            id: 'spritesheeet',
                             type: 'image',
+                            id: 'spritesheeet',
+                            rect: [0, 0, '700px', '705px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/spritesheeet.png', '0px', '0px']
                         }
                     ],
@@ -1414,27 +1554,27 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '1024px', '793px', 'auto', 'auto'],
-                            id: 'cityoverview_015',
                             type: 'image',
+                            id: 'cityoverview_015',
+                            rect: [0, 0, '1024px', '793px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/cityoverview_01.png', '0px', '0px']
                         },
                         {
-                            rect: [1024, 0, '1024px', '793px', 'auto', 'auto'],
-                            id: 'cityoverview_025',
                             type: 'image',
+                            id: 'cityoverview_025',
+                            rect: [1024, 0, '1024px', '793px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/cityoverview_02.png', '0px', '0px']
                         },
                         {
-                            rect: [0, 793, '1024px', '793px', 'auto', 'auto'],
-                            id: 'cityoverview_035',
                             type: 'image',
+                            id: 'cityoverview_035',
+                            rect: [0, 793, '1024px', '793px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/cityoverview_03.png', '0px', '0px']
                         },
                         {
-                            rect: [1024, 793, '1024px', '793px', 'auto', 'auto'],
-                            id: 'cityoverview_045',
                             type: 'image',
+                            id: 'cityoverview_045',
+                            rect: [1024, 793, '1024px', '793px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/cityoverview_04.png', '0px', '0px']
                         }
                     ],
@@ -1462,22 +1602,22 @@
                 content: {
                     dom: [
                         {
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.3244', '0.3244', 1], ['50%', '50%']],
                             type: 'rect',
+                            rect: [-77, -78, 229, 231, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'pumagirl',
                             symbolName: 'pumagirl',
                             display: 'block',
-                            rect: [-77, -78, 229, 231, 'auto', 'auto']
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.3244', '0.3244', 1], ['50%', '50%']]
                         },
                         {
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.32812', '0.3244', 1], ['50%', '50%']],
                             type: 'rect',
+                            rect: [198, -78, 229, 231, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'pumagirl2',
                             symbolName: 'pumagirl',
                             display: 'none',
-                            rect: [198, -78, 229, 231, 'auto', 'auto']
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.32812', '0.3244', 1], ['50%', '50%']]
                         }
                     ],
                     style: {
@@ -1491,14 +1631,14 @@
                     autoPlay: true,
                     data: [
                         [
-                            "eid201",
-                            "display",
-                            6000,
+                            "eid45",
+                            "top",
+                            0,
                             0,
                             "linear",
                             "${pumagirl}",
-                            'block',
-                            'none'
+                            '-78px',
+                            '-78px'
                         ],
                         [
                             "eid47",
@@ -1511,14 +1651,14 @@
                             '198px'
                         ],
                         [
-                            "eid45",
-                            "top",
-                            0,
+                            "eid201",
+                            "display",
+                            6000,
                             0,
                             "linear",
                             "${pumagirl}",
-                            '-78px',
-                            '-78px'
+                            'block',
+                            'none'
                         ],
                         [
                             "eid55",
@@ -1573,9 +1713,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, 85, 66, 'auto', 'auto'],
-                            id: 'leaf',
                             type: 'image',
+                            id: 'leaf',
+                            rect: [0, 0, 85, 66, 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/leaf.png', '0px', '0px']
                         }
                     ],
@@ -1625,8 +1765,8 @@
                             rect: [0, 0, 85, 66, 'auto', 'auto'],
                             id: 'leaf2',
                             symbolName: 'leaf',
-                            opacity: '1',
-                            type: 'rect'
+                            type: 'rect',
+                            opacity: '1'
                         }
                     ],
                     style: {
@@ -1762,9 +1902,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '690px', '624px', 'auto', 'auto'],
-                            id: 'oldman',
                             type: 'image',
+                            id: 'oldman',
+                            rect: [0, 0, '690px', '624px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/oldman.png', '0px', '0px']
                         }
                     ],
@@ -1779,106 +1919,6 @@
                     duration: 2500,
                     autoPlay: true,
                     data: [
-                        [
-                            "eid75",
-                            "left",
-                            0,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-22px',
-                            '-22px'
-                        ],
-                        [
-                            "eid77",
-                            "left",
-                            250,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-22px',
-                            '-153px'
-                        ],
-                        [
-                            "eid79",
-                            "left",
-                            500,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-153px',
-                            '-276px'
-                        ],
-                        [
-                            "eid81",
-                            "left",
-                            750,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-255px',
-                            '-276px'
-                        ],
-                        [
-                            "eid83",
-                            "left",
-                            1000,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-275px',
-                            '-408px'
-                        ],
-                        [
-                            "eid85",
-                            "left",
-                            1250,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-388px',
-                            '-20px'
-                        ],
-                        [
-                            "eid87",
-                            "left",
-                            1500,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '0px',
-                            '-23px'
-                        ],
-                        [
-                            "eid89",
-                            "left",
-                            1750,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-23px',
-                            '-154px'
-                        ],
-                        [
-                            "eid91",
-                            "left",
-                            2000,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-134px',
-                            '-281px'
-                        ],
-                        [
-                            "eid93",
-                            "left",
-                            2250,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-263px',
-                            '-416px'
-                        ],
                         [
                             "eid74",
                             "top",
@@ -1978,6 +2018,106 @@
                             "${oldman}",
                             '-297px',
                             '-297px'
+                        ],
+                        [
+                            "eid75",
+                            "left",
+                            0,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-22px',
+                            '-22px'
+                        ],
+                        [
+                            "eid77",
+                            "left",
+                            250,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-22px',
+                            '-153px'
+                        ],
+                        [
+                            "eid79",
+                            "left",
+                            500,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-153px',
+                            '-276px'
+                        ],
+                        [
+                            "eid81",
+                            "left",
+                            750,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-255px',
+                            '-276px'
+                        ],
+                        [
+                            "eid83",
+                            "left",
+                            1000,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-275px',
+                            '-408px'
+                        ],
+                        [
+                            "eid85",
+                            "left",
+                            1250,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-388px',
+                            '-20px'
+                        ],
+                        [
+                            "eid87",
+                            "left",
+                            1500,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '0px',
+                            '-23px'
+                        ],
+                        [
+                            "eid89",
+                            "left",
+                            1750,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-23px',
+                            '-154px'
+                        ],
+                        [
+                            "eid91",
+                            "left",
+                            2000,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-134px',
+                            '-281px'
+                        ],
+                        [
+                            "eid93",
+                            "left",
+                            2250,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-263px',
+                            '-416px'
                         ]
                     ]
                 }
@@ -1993,17 +2133,17 @@
                     dom: [
                         {
                             type: 'rect',
-                            opacity: '0',
-                            id: 'whiterectangle',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                            id: 'whiterectangle',
+                            opacity: '0',
                             rect: ['-113px', '-97px', '2262px', '1728px', 'auto', 'auto'],
                             fill: ['rgba(255,255,255,1.00)']
                         },
                         {
                             type: 'rect',
-                            opacity: '0.000000',
-                            id: 'Rectangle2',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                            id: 'Rectangle2',
+                            opacity: '0.000000',
                             rect: [-103, -89, 2209, 1673, 'auto', 'auto'],
                             fill: ['rgba(0,0,0,1)']
                         },
@@ -2012,8 +2152,8 @@
                             overflow: 'hidden',
                             id: 'memorytext',
                             symbolName: 'memorytext',
-                            opacity: '0',
-                            type: 'rect'
+                            type: 'rect',
+                            opacity: '0'
                         }
                     ],
                     style: {
@@ -2172,10 +2312,10 @@
                 content: {
                     dom: [
                         {
-                            type: 'rect',
+                            rect: [0, 0, 1942, 1465, 'auto', 'auto'],
                             id: 'button',
                             stroke: [0, 'rgba(0,0,0,1)', 'none'],
-                            rect: [0, 0, 1942, 1465, 'auto', 'auto'],
+                            type: 'rect',
                             fill: ['rgba(0,0,0,1.00)']
                         }
                     ],
@@ -2203,104 +2343,104 @@
                 content: {
                     dom: [
                         {
-                            rect: [15, 0, '6510', '1211', 'auto', 'auto'],
-                            id: 'Group2',
                             type: 'group',
+                            id: 'Group2',
+                            rect: [15, 0, '6510', '1211', 'auto', 'auto'],
                             c: [
                             {
-                                rect: [2521, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers2_02',
-                                type: 'image',
+                                rect: [2521, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_02.png', '0px', '0px']
                             },
                             {
-                                rect: [1725, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers2_01',
-                                type: 'image',
+                                rect: [1725, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_01.png', '0px', '0px']
                             },
                             {
-                                rect: [7311, 0, '796px', '628px', 'auto', 'auto'],
-                                id: 'travelers2_02Copy',
                                 type: 'image',
+                                id: 'travelers2_02Copy',
+                                rect: [7311, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_02.png', '0px', '0px']
                             },
                             {
-                                rect: [6515, 0, '796px', '628px', 'auto', 'auto'],
-                                id: 'travelers2_01Copy',
                                 type: 'image',
+                                id: 'travelers2_01Copy',
+                                rect: [6515, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_01.png', '0px', '0px']
                             },
                             {
-                                rect: [796, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers1_02',
-                                type: 'image',
+                                rect: [796, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_02.png', '0px', '0px']
                             },
                             {
-                                rect: [0, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers1_01',
-                                type: 'image',
+                                rect: [0, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_01.png', '0px', '0px']
                             },
                             {
-                                rect: [4119, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers1_02Copy',
-                                type: 'image',
+                                rect: [4119, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_02.png', '0px', '0px']
                             },
                             {
-                                rect: [3323, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers1_01Copy',
-                                type: 'image',
+                                rect: [3323, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_01.png', '0px', '0px']
                             },
                             {
-                                rect: [5714, 0, '796px', '628px', 'auto', 'auto'],
-                                id: 'travelers1_02Copy2',
                                 type: 'image',
+                                id: 'travelers1_02Copy2',
+                                rect: [5714, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_02.png', '0px', '0px']
                             },
                             {
-                                rect: [4918, 0, '796px', '628px', 'auto', 'auto'],
-                                id: 'travelers1_01Copy2',
                                 type: 'image',
+                                id: 'travelers1_01Copy2',
+                                rect: [4918, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_01.png', '0px', '0px']
                             },
                             {
-                                rect: [5714, 583, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'memories2_02',
-                                type: 'image',
+                                rect: [5714, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_02.png', '0px', '0px']
                             },
                             {
-                                rect: [4918, 583, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'memories2_01',
-                                type: 'image',
+                                rect: [4918, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_01.png', '0px', '0px']
                             },
                             {
-                                rect: [7311, 583, '796px', '628px', 'auto', 'auto'],
-                                id: 'memories2_02Copy',
                                 type: 'image',
+                                id: 'memories2_02Copy',
+                                rect: [7311, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_02.png', '0px', '0px']
                             },
                             {
-                                rect: [6515, 583, '796px', '628px', 'auto', 'auto'],
-                                id: 'memories2_01Copy',
                                 type: 'image',
+                                id: 'memories2_01Copy',
+                                rect: [6515, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_01.png', '0px', '0px']
                             },
                             {
-                                rect: [4119, 583, '796px', '628px', 'auto', 'auto'],
-                                id: 'memories1_02',
                                 type: 'image',
+                                id: 'memories1_02',
+                                rect: [4119, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories1_02.png', '0px', '0px']
                             },
                             {
-                                rect: [3317, 583, '796px', '628px', 'auto', 'auto'],
-                                id: 'memories1_01',
                                 type: 'image',
+                                id: 'memories1_01',
+                                rect: [3317, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories1_01.png', '0px', '0px']
                             }]
                         }
@@ -2489,9 +2629,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '1024px', '1244px', 'auto', 'auto'],
-                            id: 'sailorsit',
                             type: 'image',
+                            id: 'sailorsit',
+                            rect: [0, 0, '1024px', '1244px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'symbols/sailorsit.png', '0px', '0px']
                         }
                     ],
@@ -2569,9 +2709,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '700px', '1094px', 'auto', 'auto'],
-                            id: 'sailorsmoke',
                             type: 'image',
+                            id: 'sailorsmoke',
+                            rect: [0, 0, '700px', '1094px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'symbols/sailorsmoke.png', '0px', '0px']
                         }
                     ],
@@ -2699,9 +2839,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '1024px', '606px', 'auto', 'auto'],
-                            id: 'spritesheetsailor',
                             type: 'image',
+                            id: 'spritesheetsailor',
+                            rect: [0, 0, '1024px', '606px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'symbols/spritesheetsailor.png', '0px', '0px']
                         }
                     ],
@@ -2809,19 +2949,19 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
                             transform: [[0, 0, 0], ['-4', 0, 0], [0, 0], [1, 1, 1], ['50%', '50%']],
-                            display: 'block',
                             rect: [7, 46, 526, 229, 'auto', 'auto'],
+                            display: 'block',
                             id: 'plane',
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         },
                         {
-                            type: 'image',
                             transform: [[0, 0, 0], ['10', 0, 0], [0, 0], ['-1.04259', 1, 1], ['50%', '50%']],
-                            display: 'none',
                             rect: [1493, 46, 526, 229, 'auto', 'auto'],
+                            display: 'none',
                             id: 'plane2',
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         }
                     ],
@@ -2866,14 +3006,14 @@
                             '46px'
                         ],
                         [
-                            "eid208",
-                            "rotateZ",
+                            "eid212",
+                            "left",
                             15000,
-                            0,
+                            15000,
                             "linear",
                             "${plane2}",
-                            '10deg',
-                            '10deg'
+                            '1493px',
+                            '119px'
                         ],
                         [
                             "eid213",
@@ -2886,14 +3026,14 @@
                             'none'
                         ],
                         [
-                            "eid209",
-                            "display",
-                            15000,
+                            "eid202",
+                            "top",
+                            0,
                             0,
                             "linear",
-                            "${plane2}",
-                            'none',
-                            'block'
+                            "${plane}",
+                            '46px',
+                            '46px'
                         ],
                         [
                             "eid204",
@@ -2906,24 +3046,24 @@
                             '1497px'
                         ],
                         [
-                            "eid202",
-                            "top",
-                            0,
-                            0,
-                            "linear",
-                            "${plane}",
-                            '46px',
-                            '46px'
-                        ],
-                        [
-                            "eid212",
-                            "left",
+                            "eid209",
+                            "display",
                             15000,
-                            15000,
+                            0,
                             "linear",
                             "${plane2}",
-                            '1493px',
-                            '119px'
+                            'none',
+                            'block'
+                        ],
+                        [
+                            "eid208",
+                            "rotateZ",
+                            15000,
+                            0,
+                            "linear",
+                            "${plane2}",
+                            '10deg',
+                            '10deg'
                         ]
                     ]
                 }
@@ -2938,19 +3078,19 @@
                 content: {
                     dom: [
                         {
-                            rect: [22, 61, '732px', '318px', 'auto', 'auto'],
                             transform: [[0, 0, 0], ['10', 0, 0], [0, 0], [1, 1, 1], ['50%', '50%']],
-                            id: 'plane3',
                             type: 'image',
+                            id: 'plane3',
                             display: 'block',
+                            rect: [22, 61, '732px', '318px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         },
                         {
-                            type: 'image',
                             transform: [[0, 0, 0], ['24', 0, 0], [0, 0], ['-1.02234', 1, 1], ['50%', '50%']],
-                            display: 'none',
                             rect: [1167, 1000, '732px', '318px', 'auto', 'auto'],
+                            display: 'none',
                             id: 'plane3Copy',
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         }
                     ],
@@ -2965,24 +3105,24 @@
                     autoPlay: true,
                     data: [
                         [
-                            "eid231",
-                            "display",
-                            19997,
+                            "eid225",
+                            "rotateZ",
+                            0,
+                            0,
+                            "linear",
+                            "${plane3}",
+                            '10deg',
+                            '10deg'
+                        ],
+                        [
+                            "eid230",
+                            "rotateZ",
+                            19962,
                             0,
                             "linear",
                             "${plane3Copy}",
-                            'none',
-                            'block'
-                        ],
-                        [
-                            "eid224",
-                            "left",
-                            0,
-                            19997,
-                            "linear",
-                            "${plane3}",
-                            '22px',
-                            '1167px'
+                            '24deg',
+                            '24deg'
                         ],
                         [
                             "eid223",
@@ -3005,14 +3145,14 @@
                             'none'
                         ],
                         [
-                            "eid225",
-                            "rotateZ",
-                            0,
+                            "eid231",
+                            "display",
+                            19997,
                             0,
                             "linear",
-                            "${plane3}",
-                            '10deg',
-                            '10deg'
+                            "${plane3Copy}",
+                            'none',
+                            'block'
                         ],
                         [
                             "eid229",
@@ -3025,14 +3165,14 @@
                             '86px'
                         ],
                         [
-                            "eid230",
-                            "rotateZ",
-                            19962,
+                            "eid224",
+                            "left",
                             0,
+                            19997,
                             "linear",
-                            "${plane3Copy}",
-                            '24deg',
-                            '24deg'
+                            "${plane3}",
+                            '22px',
+                            '1167px'
                         ],
                         [
                             "eid228",
@@ -3061,40 +3201,40 @@
                             overflow: 'hidden',
                             id: 'oldman2Copy',
                             symbolName: 'oldman',
-                            type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.29305', '0.28429', 1], ['50%', '50%']]
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.29305', '0.28429', 1], ['50%', '50%']],
+                            type: 'rect'
                         },
                         {
                             rect: [9, -89, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman2Copy2',
                             symbolName: 'oldman',
-                            type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']]
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
+                            type: 'rect'
                         },
                         {
                             rect: [41, -108, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman2Copy3',
                             symbolName: 'oldman',
-                            type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']]
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
+                            type: 'rect'
                         },
                         {
                             rect: [79, -95, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman2Copy4',
                             symbolName: 'oldman',
-                            type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']]
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
+                            type: 'rect'
                         },
                         {
                             rect: [60, -94, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman2Copy5',
                             symbolName: 'oldman',
-                            type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']]
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
+                            type: 'rect'
                         }
                     ],
                     style: {
@@ -3188,14 +3328,14 @@
                             '41px'
                         ],
                         [
-                            "eid270",
+                            "eid261",
                             "top",
                             18513,
                             0,
                             "linear",
-                            "${oldman2Copy5}",
-                            '-94px',
-                            '-94px'
+                            "${oldman2Copy}",
+                            '-108px',
+                            '-108px'
                         ],
                         [
                             "eid262",
@@ -3208,14 +3348,14 @@
                             '9px'
                         ],
                         [
-                            "eid261",
+                            "eid270",
                             "top",
                             18513,
                             0,
                             "linear",
-                            "${oldman2Copy}",
-                            '-108px',
-                            '-108px'
+                            "${oldman2Copy5}",
+                            '-94px',
+                            '-94px'
                         ]
                     ]
                 }
@@ -3231,39 +3371,39 @@
                     dom: [
                         {
                             rect: [-28, -102, 128, 300, 'auto', 'auto'],
-                            opacity: '1',
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.29305', '0.28429', 1], ['50%', '50%']],
                             overflow: 'hidden',
                             id: 'oldman3Copy',
-                            symbolName: 'oldman',
+                            opacity: '1',
                             type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.29305', '0.28429', 1], ['50%', '50%']]
+                            symbolName: 'oldman'
                         },
                         {
                             rect: [78, -108, 128, 300, 'auto', 'auto'],
-                            opacity: '1',
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
                             overflow: 'hidden',
                             id: 'oldman4Copy',
-                            symbolName: 'oldman',
+                            opacity: '1',
                             type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']]
+                            symbolName: 'oldman'
                         },
                         {
                             rect: [-1, -97, 128, 300, 'auto', 'auto'],
-                            opacity: '1',
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
                             overflow: 'hidden',
                             id: 'oldman4Copy2',
-                            symbolName: 'oldman',
+                            opacity: '1',
                             type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']]
+                            symbolName: 'oldman'
                         },
                         {
                             rect: [-46, -81, 128, 300, 'auto', 'auto'],
-                            opacity: '1',
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.28475', '0.28429', 1], ['50%', '50%']],
                             overflow: 'hidden',
                             id: 'oldman4Copy3',
-                            symbolName: 'oldman',
+                            opacity: '1',
                             type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.28475', '0.28429', 1], ['50%', '50%']]
+                            symbolName: 'oldman'
                         }
                     ],
                     style: {
@@ -3307,14 +3447,14 @@
                             '-108px'
                         ],
                         [
-                            "eid246",
-                            "left",
+                            "eid247",
+                            "top",
                             18513,
                             0,
                             "linear",
                             "${oldman4Copy2}",
-                            '-1px',
-                            '-1px'
+                            '-97px',
+                            '-97px'
                         ],
                         [
                             "eid255",
@@ -3327,24 +3467,14 @@
                             '-0.28475'
                         ],
                         [
-                            "eid247",
-                            "top",
+                            "eid246",
+                            "left",
                             18513,
                             0,
                             "linear",
                             "${oldman4Copy2}",
-                            '-97px',
-                            '-97px'
-                        ],
-                        [
-                            "eid257",
-                            "top",
-                            18513,
-                            0,
-                            "linear",
-                            "${oldman4Copy3}",
-                            '-81px',
-                            '-81px'
+                            '-1px',
+                            '-1px'
                         ],
                         [
                             "eid244",
@@ -3355,6 +3485,16 @@
                             "${oldman4Copy}",
                             '78px',
                             '78px'
+                        ],
+                        [
+                            "eid257",
+                            "top",
+                            18513,
+                            0,
+                            "linear",
+                            "${oldman4Copy3}",
+                            '-81px',
+                            '-81px'
                         ],
                         [
                             "eid258",
@@ -3379,9 +3519,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [-2, 0, '500px', '166px', 'auto', 'auto'],
-                            id: 'Bgluna',
                             type: 'image',
+                            id: 'Bgluna',
+                            rect: [-2, 0, '500px', '166px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'symbols/Lunatic/Bgluna.png', '0px', '0px']
                         }
                     ],
@@ -3483,5 +3623,5 @@
 
     AdobeEdge.registerCompositionDefn(compId, symbols, fonts, scripts, resources, opts);
 
-    if (!window.edge_authoring_mode) AdobeEdge.getComposition(compId).load("start_edgeActions.js");
+    if (!window.edge_authoring_mode) AdobeEdge.getComposition(compId).load("index_edgeActions.js");
 })("EDGE-115245901");

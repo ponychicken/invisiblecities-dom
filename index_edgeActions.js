@@ -158,7 +158,7 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
       //Edge binding end
 
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 5000, function(sym, e) {
-         window.open("zirma.html", "_self");
+         window.open("Zirma.html", "_self");
       });
       //Edge binding end
 
