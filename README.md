@@ -1,4 +1,1 @@
-Invisible city by Dom Okah
-
-TODO
-* Gaps
+## Invisible city by Dom Okah
