@@ -12,12 +12,11 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    //Edge symbol: 'stage'
    (function(symbolName) {
       
-      
       Symbol.bindElementAction(compId, symbolName, "${button2}", "click", function(sym, e) {
          sym.getSymbol("rectangle").play();
       });
       //Edge binding end
-
+      
       
 
    })("stage");
@@ -84,7 +83,8 @@ var Composition = Edge.Composition, Symbol = Edge.Symbol; // aliases for commonl
    (function(symbolName) {   
    
       Symbol.bindTriggerAction(compId, symbolName, "Default Timeline", 2000, function(sym, e) {
-         sym.play(000);
+         sym.play(0);
+
       });
       //Edge binding end
 

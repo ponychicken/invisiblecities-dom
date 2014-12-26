@@ -556,14 +556,14 @@
                             '477px'
                         ],
                         [
-                            "eid356",
-                            "top",
-                            5940,
-                            126,
+                            "eid243",
+                            "opacity",
+                            18008,
+                            505,
                             "linear",
-                            "${pumagirl1}",
-                            '586px',
-                            '695px'
+                            "${sailorsit2}",
+                            '0',
+                            '1'
                         ],
                         [
                             "eid102",
@@ -646,16 +646,6 @@
                             '46px'
                         ],
                         [
-                            "eid99",
-                            "opacity",
-                            5006,
-                            494,
-                            "linear",
-                            "${oldman4}",
-                            '0',
-                            '1'
-                        ],
-                        [
                             "eid339",
                             "top",
                             13,
@@ -676,14 +666,14 @@
                             '522px'
                         ],
                         [
-                            "eid278",
-                            "opacity",
-                            20000,
-                            548,
+                            "eid361",
+                            "top",
+                            6066,
+                            0,
                             "linear",
-                            "${groupmen1}",
-                            '0',
-                            '1'
+                            "${plane1}",
+                            '247px',
+                            '247px'
                         ],
                         [
                             "eid350",
@@ -706,14 +696,14 @@
                             '0'
                         ],
                         [
-                            "eid105",
-                            "left",
-                            5940,
-                            0,
+                            "eid278",
+                            "opacity",
+                            20000,
+                            548,
                             "linear",
-                            "${bgcurrywurstCopy2}",
-                            '1209px',
-                            '1209px'
+                            "${groupmen1}",
+                            '0',
+                            '1'
                         ],
                         [
                             "eid288",
@@ -726,12 +716,12 @@
                             '0.42221'
                         ],
                         [
-                            "eid243",
+                            "eid118",
                             "opacity",
-                            18008,
-                            505,
+                            10002,
+                            498,
                             "linear",
-                            "${sailorsit2}",
+                            "${pumagirl2}",
                             '0',
                             '1'
                         ],
@@ -766,6 +756,36 @@
                             '686px'
                         ],
                         [
+                            "eid349",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${sittingluna}",
+                            '912px',
+                            '912px'
+                        ],
+                        [
+                            "eid237",
+                            "opacity",
+                            38013,
+                            750,
+                            "linear",
+                            "${plane32}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid107",
+                            "left",
+                            13,
+                            0,
+                            "linear",
+                            "${fallingleaf}",
+                            '331px',
+                            '331px'
+                        ],
+                        [
                             "eid100",
                             "left",
                             5940,
@@ -774,56 +794,6 @@
                             "${pumagirl1}",
                             '192px',
                             '192px'
-                        ],
-                        [
-                            "eid321",
-                            "left",
-                            0,
-                            19352,
-                            "linear",
-                            "${plane2}",
-                            '-96px',
-                            '-106px'
-                        ],
-                        [
-                            "eid353",
-                            "top",
-                            6066,
-                            13286,
-                            "linear",
-                            "${plane2}",
-                            '522px',
-                            '413px'
-                        ],
-                        [
-                            "eid198",
-                            "scaleX",
-                            30000,
-                            0,
-                            "linear",
-                            "${pumagirl3}",
-                            '0.89388',
-                            '0.89388'
-                        ],
-                        [
-                            "eid216",
-                            "scaleX",
-                            19352,
-                            0,
-                            "linear",
-                            "${plane2}",
-                            '-1.01696',
-                            '-1.01696'
-                        ],
-                        [
-                            "eid291",
-                            "left",
-                            20548,
-                            0,
-                            "linear",
-                            "${sittinglunaCopy}",
-                            '844px',
-                            '844px'
                         ],
                         [
                             "eid344",
@@ -836,6 +806,36 @@
                             '588px'
                         ],
                         [
+                            "eid335",
+                            "top",
+                            5940,
+                            126,
+                            "linear",
+                            "${bgcurrywurstCopy2}",
+                            '852px',
+                            '961px'
+                        ],
+                        [
+                            "eid291",
+                            "left",
+                            20548,
+                            0,
+                            "linear",
+                            "${sittinglunaCopy}",
+                            '844px',
+                            '844px'
+                        ],
+                        [
+                            "eid345",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${sailorsit2}",
+                            '577px',
+                            '577px'
+                        ],
+                        [
                             "eid355",
                             "top",
                             6066,
@@ -846,14 +846,14 @@
                             '559px'
                         ],
                         [
-                            "eid335",
-                            "top",
-                            5940,
-                            126,
+                            "eid321",
+                            "left",
+                            0,
+                            19352,
                             "linear",
-                            "${bgcurrywurstCopy2}",
-                            '852px',
-                            '961px'
+                            "${plane2}",
+                            '-96px',
+                            '-106px'
                         ],
                         [
                             "eid340",
@@ -876,34 +876,14 @@
                             '1'
                         ],
                         [
-                            "eid322",
-                            "left",
-                            6066,
-                            0,
-                            "linear",
-                            "${pumagirl4}",
-                            '337px',
-                            '337px'
-                        ],
-                        [
-                            "eid98",
-                            "opacity",
-                            5006,
-                            494,
-                            "linear",
-                            "${oldman3}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid358",
+                            "eid346",
                             "top",
-                            6066,
                             0,
+                            6066,
                             "linear",
-                            "${groupmen2}",
-                            '662px',
-                            '662px'
+                            "${button2}",
+                            '43px',
+                            '35px'
                         ],
                         [
                             "eid336",
@@ -916,6 +896,26 @@
                             '6px'
                         ],
                         [
+                            "eid358",
+                            "top",
+                            6066,
+                            0,
+                            "linear",
+                            "${groupmen2}",
+                            '662px',
+                            '662px'
+                        ],
+                        [
+                            "eid98",
+                            "opacity",
+                            5006,
+                            494,
+                            "linear",
+                            "${oldman3}",
+                            '0',
+                            '1'
+                        ],
+                        [
                             "eid348",
                             "top",
                             6066,
@@ -926,24 +926,24 @@
                             '578px'
                         ],
                         [
-                            "eid346",
-                            "top",
-                            0,
+                            "eid322",
+                            "left",
                             6066,
+                            0,
                             "linear",
-                            "${button2}",
-                            '43px',
-                            '35px'
+                            "${pumagirl4}",
+                            '337px',
+                            '337px'
                         ],
                         [
-                            "eid345",
-                            "top",
-                            6066,
+                            "eid216",
+                            "scaleX",
+                            19352,
                             0,
                             "linear",
-                            "${sailorsit2}",
-                            '577px',
-                            '577px'
+                            "${plane2}",
+                            '-1.01696',
+                            '-1.01696'
                         ],
                         [
                             "eid357",
@@ -966,54 +966,54 @@
                             '0.83372'
                         ],
                         [
-                            "eid107",
+                            "eid198",
+                            "scaleX",
+                            30000,
+                            0,
+                            "linear",
+                            "${pumagirl3}",
+                            '0.89388',
+                            '0.89388'
+                        ],
+                        [
+                            "eid353",
+                            "top",
+                            6066,
+                            13286,
+                            "linear",
+                            "${plane2}",
+                            '522px',
+                            '413px'
+                        ],
+                        [
+                            "eid356",
+                            "top",
+                            5940,
+                            126,
+                            "linear",
+                            "${pumagirl1}",
+                            '586px',
+                            '695px'
+                        ],
+                        [
+                            "eid105",
                             "left",
-                            13,
+                            5940,
                             0,
                             "linear",
-                            "${fallingleaf}",
-                            '331px',
-                            '331px'
+                            "${bgcurrywurstCopy2}",
+                            '1209px',
+                            '1209px'
                         ],
                         [
-                            "eid237",
+                            "eid99",
                             "opacity",
-                            38013,
-                            750,
+                            5006,
+                            494,
                             "linear",
-                            "${plane32}",
+                            "${oldman4}",
                             '0',
                             '1'
-                        ],
-                        [
-                            "eid349",
-                            "top",
-                            6066,
-                            0,
-                            "linear",
-                            "${sittingluna}",
-                            '912px',
-                            '912px'
-                        ],
-                        [
-                            "eid118",
-                            "opacity",
-                            10002,
-                            498,
-                            "linear",
-                            "${pumagirl2}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid361",
-                            "top",
-                            6066,
-                            0,
-                            "linear",
-                            "${plane1}",
-                            '247px',
-                            '247px'
                         ]
                     ]
                 }
@@ -1124,9 +1124,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '500px', '207px', 'auto', 'auto'],
-                            id: 'Sittingluna',
                             type: 'image',
+                            id: 'Sittingluna',
+                            rect: [0, 0, '500px', '207px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/Sittingluna.png', '0px', '0px']
                         }
                     ],
@@ -1214,9 +1214,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '800px', '383px', 'auto', 'auto'],
-                            id: 'bgwurst',
                             type: 'image',
+                            id: 'bgwurst',
+                            rect: [0, 0, '800px', '383px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/bgwurst.png', '0px', '0px']
                         }
                     ],
@@ -1231,26 +1231,6 @@
                     duration: 750,
                     autoPlay: true,
                     data: [
-                        [
-                            "eid22",
-                            "top",
-                            0,
-                            0,
-                            "linear",
-                            "${bgwurst}",
-                            '0px',
-                            '0px'
-                        ],
-                        [
-                            "eid24",
-                            "top",
-                            500,
-                            0,
-                            "linear",
-                            "${bgwurst}",
-                            '0px',
-                            '3px'
-                        ],
                         [
                             "eid21",
                             "left",
@@ -1270,6 +1250,26 @@
                             "${bgwurst}",
                             '0px',
                             '-426px'
+                        ],
+                        [
+                            "eid22",
+                            "top",
+                            0,
+                            0,
+                            "linear",
+                            "${bgwurst}",
+                            '0px',
+                            '0px'
+                        ],
+                        [
+                            "eid24",
+                            "top",
+                            500,
+                            0,
+                            "linear",
+                            "${bgwurst}",
+                            '0px',
+                            '3px'
                         ]
                     ]
                 }
@@ -1284,9 +1284,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 17, '1024px', '423px', 'auto', 'auto'],
-                            id: 'minitattooshop',
                             type: 'image',
+                            id: 'minitattooshop',
+                            rect: [0, 17, '1024px', '423px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/minitattooshop.png', '0px', '0px']
                         }
                     ],
@@ -1301,26 +1301,6 @@
                     duration: 500,
                     autoPlay: true,
                     data: [
-                        [
-                            "eid25",
-                            "left",
-                            0,
-                            0,
-                            "linear",
-                            "${minitattooshop}",
-                            '0px',
-                            '0px'
-                        ],
-                        [
-                            "eid28",
-                            "left",
-                            250,
-                            0,
-                            "linear",
-                            "${minitattooshop}",
-                            '0px',
-                            '-501px'
-                        ],
                         [
                             "eid26",
                             "top",
@@ -1340,6 +1320,26 @@
                             "${minitattooshop}",
                             '17px',
                             '-2px'
+                        ],
+                        [
+                            "eid25",
+                            "left",
+                            0,
+                            0,
+                            "linear",
+                            "${minitattooshop}",
+                            '0px',
+                            '0px'
+                        ],
+                        [
+                            "eid28",
+                            "left",
+                            250,
+                            0,
+                            "linear",
+                            "${minitattooshop}",
+                            '0px',
+                            '-501px'
                         ]
                     ]
                 }
@@ -1354,9 +1354,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '700px', '705px', 'auto', 'auto'],
-                            id: 'spritesheeet',
                             type: 'image',
+                            id: 'spritesheeet',
+                            rect: [0, 0, '700px', '705px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/spritesheeet.png', '0px', '0px']
                         }
                     ],
@@ -1544,27 +1544,27 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '1024px', '793px', 'auto', 'auto'],
-                            id: 'cityoverview_015',
                             type: 'image',
+                            id: 'cityoverview_015',
+                            rect: [0, 0, '1024px', '793px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/cityoverview_01.png', '0px', '0px']
                         },
                         {
-                            rect: [1024, 0, '1024px', '793px', 'auto', 'auto'],
-                            id: 'cityoverview_025',
                             type: 'image',
+                            id: 'cityoverview_025',
+                            rect: [1024, 0, '1024px', '793px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/cityoverview_02.png', '0px', '0px']
                         },
                         {
-                            rect: [0, 793, '1024px', '793px', 'auto', 'auto'],
-                            id: 'cityoverview_035',
                             type: 'image',
+                            id: 'cityoverview_035',
+                            rect: [0, 793, '1024px', '793px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/cityoverview_03.png', '0px', '0px']
                         },
                         {
-                            rect: [1024, 793, '1024px', '793px', 'auto', 'auto'],
-                            id: 'cityoverview_045',
                             type: 'image',
+                            id: 'cityoverview_045',
+                            rect: [1024, 793, '1024px', '793px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/cityoverview_04.png', '0px', '0px']
                         }
                     ],
@@ -1592,22 +1592,22 @@
                 content: {
                     dom: [
                         {
-                            rect: [-77, -78, 229, 231, 'auto', 'auto'],
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.3244', '0.3244', 1], ['50%', '50%']],
+                            type: 'rect',
                             overflow: 'hidden',
                             id: 'pumagirl',
                             symbolName: 'pumagirl',
                             display: 'block',
-                            type: 'rect'
+                            rect: [-77, -78, 229, 231, 'auto', 'auto']
                         },
                         {
-                            rect: [198, -78, 229, 231, 'auto', 'auto'],
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.32812', '0.3244', 1], ['50%', '50%']],
+                            type: 'rect',
                             overflow: 'hidden',
                             id: 'pumagirl2',
                             symbolName: 'pumagirl',
                             display: 'none',
-                            type: 'rect'
+                            rect: [198, -78, 229, 231, 'auto', 'auto']
                         }
                     ],
                     style: {
@@ -1621,14 +1621,14 @@
                     autoPlay: true,
                     data: [
                         [
-                            "eid201",
-                            "display",
-                            6000,
+                            "eid45",
+                            "top",
+                            0,
                             0,
                             "linear",
                             "${pumagirl}",
-                            'block',
-                            'none'
+                            '-78px',
+                            '-78px'
                         ],
                         [
                             "eid47",
@@ -1641,14 +1641,14 @@
                             '198px'
                         ],
                         [
-                            "eid45",
-                            "top",
-                            0,
+                            "eid201",
+                            "display",
+                            6000,
                             0,
                             "linear",
                             "${pumagirl}",
-                            '-78px',
-                            '-78px'
+                            'block',
+                            'none'
                         ],
                         [
                             "eid55",
@@ -1703,9 +1703,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, 85, 66, 'auto', 'auto'],
-                            id: 'leaf',
                             type: 'image',
+                            id: 'leaf',
+                            rect: [0, 0, 85, 66, 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/leaf.png', '0px', '0px']
                         }
                     ],
@@ -1755,8 +1755,8 @@
                             type: 'rect',
                             id: 'leaf2',
                             symbolName: 'leaf',
-                            opacity: '1',
-                            rect: [0, 0, 85, 66, 'auto', 'auto']
+                            rect: [0, 0, 85, 66, 'auto', 'auto'],
+                            opacity: '1'
                         }
                     ],
                     style: {
@@ -1892,9 +1892,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '690px', '624px', 'auto', 'auto'],
-                            id: 'oldman',
                             type: 'image',
+                            id: 'oldman',
+                            rect: [0, 0, '690px', '624px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/oldman.png', '0px', '0px']
                         }
                     ],
@@ -1909,106 +1909,6 @@
                     duration: 2500,
                     autoPlay: true,
                     data: [
-                        [
-                            "eid75",
-                            "left",
-                            0,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-22px',
-                            '-22px'
-                        ],
-                        [
-                            "eid77",
-                            "left",
-                            250,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-22px',
-                            '-153px'
-                        ],
-                        [
-                            "eid79",
-                            "left",
-                            500,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-153px',
-                            '-276px'
-                        ],
-                        [
-                            "eid81",
-                            "left",
-                            750,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-255px',
-                            '-276px'
-                        ],
-                        [
-                            "eid83",
-                            "left",
-                            1000,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-275px',
-                            '-408px'
-                        ],
-                        [
-                            "eid85",
-                            "left",
-                            1250,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-388px',
-                            '-20px'
-                        ],
-                        [
-                            "eid87",
-                            "left",
-                            1500,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '0px',
-                            '-23px'
-                        ],
-                        [
-                            "eid89",
-                            "left",
-                            1750,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-23px',
-                            '-154px'
-                        ],
-                        [
-                            "eid91",
-                            "left",
-                            2000,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-134px',
-                            '-281px'
-                        ],
-                        [
-                            "eid93",
-                            "left",
-                            2250,
-                            0,
-                            "linear",
-                            "${oldman}",
-                            '-263px',
-                            '-416px'
-                        ],
                         [
                             "eid74",
                             "top",
@@ -2108,6 +2008,106 @@
                             "${oldman}",
                             '-297px',
                             '-297px'
+                        ],
+                        [
+                            "eid75",
+                            "left",
+                            0,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-22px',
+                            '-22px'
+                        ],
+                        [
+                            "eid77",
+                            "left",
+                            250,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-22px',
+                            '-153px'
+                        ],
+                        [
+                            "eid79",
+                            "left",
+                            500,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-153px',
+                            '-276px'
+                        ],
+                        [
+                            "eid81",
+                            "left",
+                            750,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-255px',
+                            '-276px'
+                        ],
+                        [
+                            "eid83",
+                            "left",
+                            1000,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-275px',
+                            '-408px'
+                        ],
+                        [
+                            "eid85",
+                            "left",
+                            1250,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-388px',
+                            '-20px'
+                        ],
+                        [
+                            "eid87",
+                            "left",
+                            1500,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '0px',
+                            '-23px'
+                        ],
+                        [
+                            "eid89",
+                            "left",
+                            1750,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-23px',
+                            '-154px'
+                        ],
+                        [
+                            "eid91",
+                            "left",
+                            2000,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-134px',
+                            '-281px'
+                        ],
+                        [
+                            "eid93",
+                            "left",
+                            2250,
+                            0,
+                            "linear",
+                            "${oldman}",
+                            '-263px',
+                            '-416px'
                         ]
                     ]
                 }
@@ -2123,17 +2123,17 @@
                     dom: [
                         {
                             type: 'rect',
-                            opacity: '0',
-                            id: 'whiterectangle',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                            id: 'whiterectangle',
+                            opacity: '0',
                             rect: ['-113px', '-97px', '2262px', '1728px', 'auto', 'auto'],
                             fill: ['rgba(255,255,255,1.00)']
                         },
                         {
                             type: 'rect',
-                            opacity: '0.000000',
-                            id: 'Rectangle2',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
+                            id: 'Rectangle2',
+                            opacity: '0.000000',
                             rect: [-103, -89, 2209, 1673, 'auto', 'auto'],
                             fill: ['rgba(0,0,0,1)']
                         },
@@ -2142,8 +2142,8 @@
                             overflow: 'hidden',
                             id: 'memorytext',
                             symbolName: 'memorytext',
-                            opacity: '0',
-                            type: 'rect'
+                            type: 'rect',
+                            opacity: '0'
                         }
                     ],
                     style: {
@@ -2302,10 +2302,10 @@
                 content: {
                     dom: [
                         {
-                            type: 'rect',
+                            rect: [0, 0, 1942, 1465, 'auto', 'auto'],
                             id: 'button',
                             stroke: [0, 'rgba(0,0,0,1)', 'none'],
-                            rect: [0, 0, 1942, 1465, 'auto', 'auto'],
+                            type: 'rect',
                             fill: ['rgba(0,0,0,1.00)']
                         }
                     ],
@@ -2333,104 +2333,104 @@
                 content: {
                     dom: [
                         {
-                            rect: [15, 0, '6510', '1211', 'auto', 'auto'],
-                            id: 'Group2',
                             type: 'group',
+                            id: 'Group2',
+                            rect: [15, 0, '6510', '1211', 'auto', 'auto'],
                             c: [
                             {
-                                rect: [2521, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers2_02',
-                                type: 'image',
+                                rect: [2521, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_02.png', '0px', '0px']
                             },
                             {
-                                rect: [1725, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers2_01',
-                                type: 'image',
+                                rect: [1725, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_01.png', '0px', '0px']
                             },
                             {
-                                rect: [7311, 0, '796px', '628px', 'auto', 'auto'],
-                                id: 'travelers2_02Copy',
                                 type: 'image',
+                                id: 'travelers2_02Copy',
+                                rect: [7311, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_02.png', '0px', '0px']
                             },
                             {
-                                rect: [6515, 0, '796px', '628px', 'auto', 'auto'],
-                                id: 'travelers2_01Copy',
                                 type: 'image',
+                                id: 'travelers2_01Copy',
+                                rect: [6515, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers2_01.png', '0px', '0px']
                             },
                             {
-                                rect: [796, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers1_02',
-                                type: 'image',
+                                rect: [796, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_02.png', '0px', '0px']
                             },
                             {
-                                rect: [0, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers1_01',
-                                type: 'image',
+                                rect: [0, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_01.png', '0px', '0px']
                             },
                             {
-                                rect: [4119, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers1_02Copy',
-                                type: 'image',
+                                rect: [4119, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_02.png', '0px', '0px']
                             },
                             {
-                                rect: [3323, 0, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'travelers1_01Copy',
-                                type: 'image',
+                                rect: [3323, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_01.png', '0px', '0px']
                             },
                             {
-                                rect: [5714, 0, '796px', '628px', 'auto', 'auto'],
-                                id: 'travelers1_02Copy2',
                                 type: 'image',
+                                id: 'travelers1_02Copy2',
+                                rect: [5714, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_02.png', '0px', '0px']
                             },
                             {
-                                rect: [4918, 0, '796px', '628px', 'auto', 'auto'],
-                                id: 'travelers1_01Copy2',
                                 type: 'image',
+                                id: 'travelers1_01Copy2',
+                                rect: [4918, 0, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/travelers1_01.png', '0px', '0px']
                             },
                             {
-                                rect: [5714, 583, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'memories2_02',
-                                type: 'image',
+                                rect: [5714, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_02.png', '0px', '0px']
                             },
                             {
-                                rect: [4918, 583, '796px', '628px', 'auto', 'auto'],
+                                type: 'image',
                                 id: 'memories2_01',
-                                type: 'image',
+                                rect: [4918, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_01.png', '0px', '0px']
                             },
                             {
-                                rect: [7311, 583, '796px', '628px', 'auto', 'auto'],
-                                id: 'memories2_02Copy',
                                 type: 'image',
+                                id: 'memories2_02Copy',
+                                rect: [7311, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_02.png', '0px', '0px']
                             },
                             {
-                                rect: [6515, 583, '796px', '628px', 'auto', 'auto'],
-                                id: 'memories2_01Copy',
                                 type: 'image',
+                                id: 'memories2_01Copy',
+                                rect: [6515, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories2_01.png', '0px', '0px']
                             },
                             {
-                                rect: [4119, 583, '796px', '628px', 'auto', 'auto'],
-                                id: 'memories1_02',
                                 type: 'image',
+                                id: 'memories1_02',
+                                rect: [4119, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories1_02.png', '0px', '0px']
                             },
                             {
-                                rect: [3317, 583, '796px', '628px', 'auto', 'auto'],
-                                id: 'memories1_01',
                                 type: 'image',
+                                id: 'memories1_01',
+                                rect: [3317, 583, '796px', '628px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'cityoverview/images/text/images/memories1_01.png', '0px', '0px']
                             }]
                         }
@@ -2619,9 +2619,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '1024px', '1244px', 'auto', 'auto'],
-                            id: 'sailorsit',
                             type: 'image',
+                            id: 'sailorsit',
+                            rect: [0, 0, '1024px', '1244px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'symbols/sailorsit.png', '0px', '0px']
                         }
                     ],
@@ -2699,9 +2699,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '700px', '1094px', 'auto', 'auto'],
-                            id: 'sailorsmoke',
                             type: 'image',
+                            id: 'sailorsmoke',
+                            rect: [0, 0, '700px', '1094px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'symbols/sailorsmoke.png', '0px', '0px']
                         }
                     ],
@@ -2829,9 +2829,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [0, 0, '1024px', '606px', 'auto', 'auto'],
-                            id: 'spritesheetsailor',
                             type: 'image',
+                            id: 'spritesheetsailor',
+                            rect: [0, 0, '1024px', '606px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'symbols/spritesheetsailor.png', '0px', '0px']
                         }
                     ],
@@ -2939,19 +2939,19 @@
                 content: {
                     dom: [
                         {
-                            rect: [7, 46, 526, 229, 'auto', 'auto'],
                             transform: [[0, 0, 0], ['-4', 0, 0], [0, 0], [1, 1, 1], ['50%', '50%']],
-                            id: 'plane',
                             type: 'image',
+                            id: 'plane',
                             display: 'block',
+                            rect: [7, 46, 526, 229, 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         },
                         {
-                            rect: [1493, 46, 526, 229, 'auto', 'auto'],
                             transform: [[0, 0, 0], ['10', 0, 0], [0, 0], ['-1.04259', 1, 1], ['50%', '50%']],
-                            id: 'plane2',
                             type: 'image',
+                            id: 'plane2',
                             display: 'none',
+                            rect: [1493, 46, 526, 229, 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         }
                     ],
@@ -2996,14 +2996,14 @@
                             '46px'
                         ],
                         [
-                            "eid208",
-                            "rotateZ",
+                            "eid212",
+                            "left",
                             15000,
-                            0,
+                            15000,
                             "linear",
                             "${plane2}",
-                            '10deg',
-                            '10deg'
+                            '1493px',
+                            '119px'
                         ],
                         [
                             "eid213",
@@ -3016,14 +3016,14 @@
                             'none'
                         ],
                         [
-                            "eid209",
-                            "display",
-                            15000,
+                            "eid202",
+                            "top",
+                            0,
                             0,
                             "linear",
-                            "${plane2}",
-                            'none',
-                            'block'
+                            "${plane}",
+                            '46px',
+                            '46px'
                         ],
                         [
                             "eid204",
@@ -3036,24 +3036,24 @@
                             '1497px'
                         ],
                         [
-                            "eid202",
-                            "top",
-                            0,
-                            0,
-                            "linear",
-                            "${plane}",
-                            '46px',
-                            '46px'
-                        ],
-                        [
-                            "eid212",
-                            "left",
+                            "eid209",
+                            "display",
                             15000,
-                            15000,
+                            0,
                             "linear",
                             "${plane2}",
-                            '1493px',
-                            '119px'
+                            'none',
+                            'block'
+                        ],
+                        [
+                            "eid208",
+                            "rotateZ",
+                            15000,
+                            0,
+                            "linear",
+                            "${plane2}",
+                            '10deg',
+                            '10deg'
                         ]
                     ]
                 }
@@ -3068,19 +3068,19 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
                             transform: [[0, 0, 0], ['10', 0, 0], [0, 0], [1, 1, 1], ['50%', '50%']],
-                            display: 'block',
                             rect: [22, 61, '732px', '318px', 'auto', 'auto'],
+                            display: 'block',
                             id: 'plane3',
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         },
                         {
-                            rect: [1167, 1000, '732px', '318px', 'auto', 'auto'],
                             transform: [[0, 0, 0], ['24', 0, 0], [0, 0], ['-1.02234', 1, 1], ['50%', '50%']],
-                            id: 'plane3Copy',
                             type: 'image',
+                            id: 'plane3Copy',
                             display: 'none',
+                            rect: [1167, 1000, '732px', '318px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'cityoverview/images/plane.png', '0px', '0px']
                         }
                     ],
@@ -3095,24 +3095,24 @@
                     autoPlay: true,
                     data: [
                         [
-                            "eid231",
-                            "display",
-                            19997,
+                            "eid225",
+                            "rotateZ",
+                            0,
+                            0,
+                            "linear",
+                            "${plane3}",
+                            '10deg',
+                            '10deg'
+                        ],
+                        [
+                            "eid230",
+                            "rotateZ",
+                            19962,
                             0,
                             "linear",
                             "${plane3Copy}",
-                            'none',
-                            'block'
-                        ],
-                        [
-                            "eid224",
-                            "left",
-                            0,
-                            19997,
-                            "linear",
-                            "${plane3}",
-                            '22px',
-                            '1167px'
+                            '24deg',
+                            '24deg'
                         ],
                         [
                             "eid223",
@@ -3135,14 +3135,14 @@
                             'none'
                         ],
                         [
-                            "eid225",
-                            "rotateZ",
-                            0,
+                            "eid231",
+                            "display",
+                            19997,
                             0,
                             "linear",
-                            "${plane3}",
-                            '10deg',
-                            '10deg'
+                            "${plane3Copy}",
+                            'none',
+                            'block'
                         ],
                         [
                             "eid229",
@@ -3155,14 +3155,14 @@
                             '86px'
                         ],
                         [
-                            "eid230",
-                            "rotateZ",
-                            19962,
+                            "eid224",
+                            "left",
                             0,
+                            19997,
                             "linear",
-                            "${plane3Copy}",
-                            '24deg',
-                            '24deg'
+                            "${plane3}",
+                            '22px',
+                            '1167px'
                         ],
                         [
                             "eid228",
@@ -3191,40 +3191,40 @@
                             overflow: 'hidden',
                             id: 'oldman2Copy',
                             symbolName: 'oldman',
-                            type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.29305', '0.28429', 1], ['50%', '50%']]
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.29305', '0.28429', 1], ['50%', '50%']],
+                            type: 'rect'
                         },
                         {
                             rect: [9, -89, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman2Copy2',
                             symbolName: 'oldman',
-                            type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']]
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
+                            type: 'rect'
                         },
                         {
                             rect: [41, -108, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman2Copy3',
                             symbolName: 'oldman',
-                            type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']]
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
+                            type: 'rect'
                         },
                         {
                             rect: [79, -95, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman2Copy4',
                             symbolName: 'oldman',
-                            type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']]
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
+                            type: 'rect'
                         },
                         {
                             rect: [60, -94, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman2Copy5',
                             symbolName: 'oldman',
-                            type: 'rect',
-                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']]
+                            transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
+                            type: 'rect'
                         }
                     ],
                     style: {
@@ -3318,14 +3318,14 @@
                             '41px'
                         ],
                         [
-                            "eid270",
+                            "eid261",
                             "top",
                             18513,
                             0,
                             "linear",
-                            "${oldman2Copy5}",
-                            '-94px',
-                            '-94px'
+                            "${oldman2Copy}",
+                            '-108px',
+                            '-108px'
                         ],
                         [
                             "eid262",
@@ -3338,14 +3338,14 @@
                             '9px'
                         ],
                         [
-                            "eid261",
+                            "eid270",
                             "top",
                             18513,
                             0,
                             "linear",
-                            "${oldman2Copy}",
-                            '-108px',
-                            '-108px'
+                            "${oldman2Copy5}",
+                            '-94px',
+                            '-94px'
                         ]
                     ]
                 }
@@ -3361,39 +3361,39 @@
                     dom: [
                         {
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.29305', '0.28429', 1], ['50%', '50%']],
-                            symbolName: 'oldman',
+                            rect: [-28, -102, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman3Copy',
-                            opacity: '1',
+                            symbolName: 'oldman',
                             type: 'rect',
-                            rect: [-28, -102, 128, 300, 'auto', 'auto']
+                            opacity: '1'
                         },
                         {
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
-                            symbolName: 'oldman',
+                            rect: [78, -108, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman4Copy',
-                            opacity: '1',
+                            symbolName: 'oldman',
                             type: 'rect',
-                            rect: [78, -108, 128, 300, 'auto', 'auto']
+                            opacity: '1'
                         },
                         {
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['0.29304', '0.28429', 1], ['50%', '50%']],
-                            symbolName: 'oldman',
+                            rect: [-1, -97, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman4Copy2',
-                            opacity: '1',
+                            symbolName: 'oldman',
                             type: 'rect',
-                            rect: [-1, -97, 128, 300, 'auto', 'auto']
+                            opacity: '1'
                         },
                         {
                             transform: [[0, 0, 0], [0, 0, 0], [0, 0], ['-0.28475', '0.28429', 1], ['50%', '50%']],
-                            symbolName: 'oldman',
+                            rect: [-46, -81, 128, 300, 'auto', 'auto'],
                             overflow: 'hidden',
                             id: 'oldman4Copy3',
-                            opacity: '1',
+                            symbolName: 'oldman',
                             type: 'rect',
-                            rect: [-46, -81, 128, 300, 'auto', 'auto']
+                            opacity: '1'
                         }
                     ],
                     style: {
@@ -3437,14 +3437,14 @@
                             '-108px'
                         ],
                         [
-                            "eid246",
-                            "left",
+                            "eid247",
+                            "top",
                             18513,
                             0,
                             "linear",
                             "${oldman4Copy2}",
-                            '-1px',
-                            '-1px'
+                            '-97px',
+                            '-97px'
                         ],
                         [
                             "eid255",
@@ -3457,24 +3457,14 @@
                             '-0.28475'
                         ],
                         [
-                            "eid247",
-                            "top",
+                            "eid246",
+                            "left",
                             18513,
                             0,
                             "linear",
                             "${oldman4Copy2}",
-                            '-97px',
-                            '-97px'
-                        ],
-                        [
-                            "eid257",
-                            "top",
-                            18513,
-                            0,
-                            "linear",
-                            "${oldman4Copy3}",
-                            '-81px',
-                            '-81px'
+                            '-1px',
+                            '-1px'
                         ],
                         [
                             "eid244",
@@ -3485,6 +3475,16 @@
                             "${oldman4Copy}",
                             '78px',
                             '78px'
+                        ],
+                        [
+                            "eid257",
+                            "top",
+                            18513,
+                            0,
+                            "linear",
+                            "${oldman4Copy3}",
+                            '-81px',
+                            '-81px'
                         ],
                         [
                             "eid258",
@@ -3509,9 +3509,9 @@
                 content: {
                     dom: [
                         {
-                            rect: [-2, 0, '500px', '166px', 'auto', 'auto'],
-                            id: 'Bgluna',
                             type: 'image',
+                            id: 'Bgluna',
+                            rect: [-2, 0, '500px', '166px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'symbols/Lunatic/Bgluna.png', '0px', '0px']
                         }
                     ],
